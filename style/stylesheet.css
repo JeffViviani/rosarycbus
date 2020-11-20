@@ -13,6 +13,11 @@
 	font-size:3em;
 	margin: 0.5em;
 }
+.big-pretty-text-sorrowful {
+	font-family: Times
+	font-size:3em;
+	margin: 0.5em;
+}
 body {
 	background-image: url("Images/Humble Road Colorized.jpg");
 }
@@ -136,11 +141,6 @@ body {
 	font-size:1.25em;
 	font-family: 'Noto Sans', sans-serif;
 	
-}
-#main-content li {
-	margin: 1em;
-	font-size:1.25em;
-	font-family: 'Noto Sans', sans-serif;
 }
 .triangle {
 	position: absolute;
