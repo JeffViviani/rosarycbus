@@ -109,40 +109,60 @@
 	vertical-align: bottom;
 	margin-left: 10px;
 }
-.red-bar {
+.bar-1 {
 	margin:1.4em 0 0 5%;
 	position: relative;
 	padding:0;
 	height:2em;
 	width:90%;
-	background-image: url(../Images/red_crosses.png);
 	border-radius: 0 1em 0 0;
 	box-shadow:0.3em 0.2em 0.5em 0.2em black;
 }
-.green-bar {
+.bar-2 {
 	position: relative;
 	margin:0 0 0 5%;
 	padding:0;
 	height:2em;
 	width:80%;
-	background-image: url(../Images/green_crosses.png);
 	border-radius: 0 0 1em 0;
 	box-shadow:0.3em 0.2em 0.5em 0.2em black;
 }
-.orange-bar {
+.bar-3 {
 	position: relative;
 	margin:0 0 0 5%;
 	padding:0;
 	height:2em;
 	width:70%;
-	background-image: url(../Images/yellow_crosses.png);
 	border-radius: 0 0 1em 0;
 	box-shadow:0.3em 0.2em 0.5em 0.2em black;
+}
+.bar-4 {
+	position: relative;
+	margin:0 0 0 5%;
+	padding:0;
+	height:2em;
+	width:60%;
+	border-radius: 0 0 1em 0;
+	box-shadow:0.3em 0.2em 0.5em 0.2em black;
+}
+.red-bar {
+	background-image: url(../Images/red_crosses.png);
+}
+.green-bar {
+	background-image: url(../Images/green_crosses.png);
+}
+.orange-bar {
+	background-image: url(../Images/yellow_crosses.png);
+}
+.blue-bar {
+	background-image: url(../Images/blue_crosses.png);
+}
+.grey-bar {
+	background-image: url(../Images/grey_crosses.png);
 }
 #main-content p {
 	margin: 1.5em;
 	font-size:1.25em;
-	font-family: 'Noto Sans', sans-serif;
 	
 }
 .triangle {
@@ -173,6 +193,10 @@ select {
 }
 .rotation-readings div {
 	display:none;
+	padding: 0.4em 0 0.4em;
+	background-color:#e3e6ba;
+	font-family: TimesNewRoman, "Times New Roman", Times;
+	font-size: 1em;
 }
 ul {
 	list-style-position: inside;
