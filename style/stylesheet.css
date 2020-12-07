@@ -191,12 +191,29 @@ select {
 .wide-link:hover {
 	background-color:#f5f25d;
 }
+.rotation-readings .brf {
+	color:black;
+}
 .rotation-readings div {
 	display:none;
 	padding: 0.4em 0 0.4em;
 	background-color:#e3e6ba;
 	font-family: TimesNewRoman, "Times New Roman", Times;
 	font-size: 1em;
+}
+.rotation-readings label {
+	vertical-align: center;
+	font-size:0.7em;
+	margin-left: 3px;
+	color:black;
+}
+.rotation-readings input {
+	vertical-align: bottom;
+	background-color: red;
+	margin-left:1em;
+	font-size:0.5em;
+	color:red;
+	height:2em;
 }
 ul {
 	list-style-position: inside;

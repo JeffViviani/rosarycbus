@@ -7,6 +7,20 @@ window.onload = function() {
 		hideAllReadings();
 		loadReadings();
 	}
+	let brfbtns = document.getElementsByClassName("brfbtn");
+	for(let index = 0; index < brfbtns.length; index++) {
+		brfbtns[index].onchange = function() {
+			let wrapper = this.parentElement.parentElement;
+			let pChildren = wrapper.getElementsByTagName("p");
+			for(let index = 1; index < pChildren.length; index++) {
+				if(this.checked) {
+					pChildren[index].style.color = "#cfcdae";
+				} else {
+					pChildren[index].style.color = "black";
+				}
+			}
+		}
+	}
 	hideAllReadings();
 	loadReadings();
 }
@@ -15,11 +29,9 @@ function loadReadings() {
 	let hiddenReadings = document.getElementsByClassName("rotation-readings");
 	for(let i=0; i<hiddenReadings.length; i++) {
 		let translation = document.getElementById("translation-select").value;
-		console.log(translation);
 		let readingsToChoose = hiddenReadings[i].getElementsByClassName(translation);
 		let numChoices = readingsToChoose.length;
 		if(numChoices > 0) {
-			console.log(weeksSinceEpoc % numChoices);
 			readingsToChoose[weeksSinceEpoc % numChoices].style.display = "block";
 		}
 	}
