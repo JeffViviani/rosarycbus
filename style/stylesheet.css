@@ -118,6 +118,13 @@
 	border-radius: 0 1em 0 0;
 	box-shadow:0.3em 0.2em 0.5em 0.2em black;
 }
+.bar-1:hover {
+	cursor: pointer;
+	margin: 1.4em 0 0 6%;
+}
+.bar-1:active {
+	opacity:0.8;
+}
 .bar-2 {
 	position: relative;
 	margin:0 0 0 5%;
@@ -126,6 +133,13 @@
 	width:80%;
 	border-radius: 0 0 1em 0;
 	box-shadow:0.3em 0.2em 0.5em 0.2em black;
+}
+.bar-2:hover {
+	cursor: pointer;
+	margin: 0 0 0 6%;
+}
+.bar-2:active {
+	opacity:0.8;
 }
 .bar-3 {
 	position: relative;
@@ -136,6 +150,13 @@
 	border-radius: 0 0 1em 0;
 	box-shadow:0.3em 0.2em 0.5em 0.2em black;
 }
+.bar-3:hover {
+	cursor: pointer;
+	margin: 0 0 0 6%;
+}
+.bar-3:active {
+	opacity:0.8;
+}
 .bar-4 {
 	position: relative;
 	margin:0 0 0 5%;
@@ -145,14 +166,33 @@
 	border-radius: 0 0 1em 0;
 	box-shadow:0.3em 0.2em 0.5em 0.2em black;
 }
+.bar-4:hover {
+	cursor: pointer;
+	margin: 0 0 0 6%;
+}
+.bar-4:active {
+	opacity: 0.8;
+}
+.bcm-red-bar:hover {
+	background-image: url(../Images/red_crosses.png) !important;
+}
 .red-bar {
 	background-image: url(../Images/red_crosses.png);
+}
+.bcm-green-bar:hover {
+	background-image: url(../Images/green_crosses.png) !important;
 }
 .green-bar {
 	background-image: url(../Images/green_crosses.png);
 }
+.bcm-orange-bar:hover {
+	background-image: url(../Images/yellow_crosses.png) !important;
+}
 .orange-bar {
 	background-image: url(../Images/yellow_crosses.png);
+}
+.bcm-blue-bar:hover {
+	background-image: url(../Images/blue_crosses.png) !important;
 }
 .blue-bar {
 	background-image: url(../Images/blue_crosses.png);
