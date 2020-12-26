@@ -1,3 +1,6 @@
+<?php
+  include '../epoc.php';
+?>
 <!DOCTYPE html>
 	<head>
 		<title>Sorrowful Mysteries</title>
@@ -57,14 +60,7 @@
 				<b><p class='guide'>[First Sorrowful Mystery]</p></b>
 				<p>The First Sorrowful Mystery: The Agony in the Garden.</p>
 				<div class="rotation-readings">
-					<div class="nab">
-						<p class='guide'>[Reading from Mark 14:32-42]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p>Then they came to a place called Gethsemane, and he said to his disciples, "Sit here while I pray." He took with him Peter, James, and John, and began to be troubled and distressed. <span class="brf">Then he said to them, "My soul is sorrowful even to death. Remain here and keep watch." He advanced a little and fell to the ground and prayed that if it were possible the hour might not pass by him; he said, "Abba, Father, all things are possible to you. Take this cup away from me, but not what I will but what you will."</span> When he returned he found them asleep. He said to Peter, "Simon, are you asleep? Could you not keep watch for one hour? Watch and pray that you may not undergo the test. The spirit is willing but the flesh is weak." Withdrawing again, he prayed, saying the same thing. Then he returned once more and found them asleep, for they could not keep their eyes open and did not know what to answer him. He returned a third time and said to them, "Are you still sleeping and taking your rest? It is enough. The hour has come. Behold, the Son of Man is to be handed over to sinners. Get up, let us go. See, my betrayer is at hand."</p>
-					</div>
-					<div class="dr">
-						<p class='guide'>[Reading from St. Mark 14:32-42]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p>And they came to a farm called Gethsemani. And he saith to his disciples: Sit you here, while I pray. And he taketh Peter and James and John with him; and he began to fear and to be heavy. <span class="brf">And he saith to them: My soul is sorrowful even unto death; stay you here, and watch. And when he was gone forward a little, he fell flat on the ground; and he prayed, that if it might be, the hour might pass from him. And he saith: Abba, Father, all things are possible to thee: remove this chalice from me; but not what I will, but what thou wilt.</span> And he cometh, and findeth them sleeping. And he saith to Peter: Simon, sleepest thou? couldst thou not watch one hour? Watch ye, and pray that you enter not into temptation. The spirit indeed is willing, but the flesh is weak. And going away again, he prayed, saying the same words. And when he returned, he found them again asleep, (for their eyes were heavy,) and they knew not what to answer him. And he cometh the third time, and saith to them: Sleep ye now, and take your rest. It is enough: the hour is come: behold the Son of man shall be betrayed into the hands of sinners. Rise up, let us go. Behold, he that will betray me is at hand.</p>
-					</div>
+					<?php echo getScripture('passages/1/2/', $weeksSinceEpoc); ?>
 				</div>
 				<p class='guide'>[Fruit of the Mystery]</p>
 				<p>Fruit of the mystery: Sorrow for Sin</p>
@@ -89,25 +85,10 @@
 				<b><p class='guide'>[Second Sorrowful Mystery]</p></b>
 				<p>The Second Sorrowful Mystery: The Scourging</p>
 				<div class="rotation-readings">
-					<div class="nab">
-						<p class='guide'>[Reading from Proverbs 20:27-30]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p>A lamp from the Lord is human life-breath; it searches through the inmost being. His steadfast loyalty safeguards the king, and he upholds his throne of justice. The glory of the young is their strength, and the dignity of the old is gray hair. <span class="brf">Evil is cleansed away by bloody lashes, and a scourging to the inmost being.</span></p>
-					</div>
-					<div class="dr">
-						<p class='guide'>[Reading from Proverbs 20:27-30]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p>The spirit of a man is the lamp of the Lord, which searcheth all the hidden things of the bowels. Mercy and truth preserve the king, and his throne is strengthened by clemency. The joy of young men is their strength: and the dignity of old men, their grey hairs. <span class="brf">The blueness of a wound shall wipe away evils: and stripes in the more inward parts of the belly.</span></p>
-					</div>
+					<?php echo getScripture('passages/2/1/', $weeksSinceEpoc); ?>
 				</div>
 				<div class="rotation-readings">
-					<div class="nab">
-						<p class='guide'>[Reading from Luke 23:13-23]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p><span class="brf">Pilate then summoned the cheif priests, the rulers, and the people and said to them, "You brought this man to me and accused him of iinciting the people to revolt. I have conducted my investigation in your presence and have not found this man guilty of the charges you have brought against him, nor did Herod, for he sent ihm back to us. So no capital crime has been committed by him. Therefore I shall have him flogged and then release him.</span> But all together they shouted out, "Away with this man! Release Barrabas to us." (Now Barabbas had been imprisoned for a rebellion that had taken place in the city and for murder.) Again Pilate addressed them, still wishing to release Jesus, but they continued their shouting, "Crucify him! Crucify him!" Pilate addressed them a third time, "What evil has this man done? I found him guilty of no capital crime. Therefore I shall have him flogged and then release him." With loud shouts, however, they persisted in calling for his crucifixion, and their voices prevailed.</p>
-					</div>
-					<div class="dr">
-						<p class='guide'>[Reading from St. Luke 23:13-23]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p><span class="brf">And Pilate, calling together the chief priests, and the magistrates, and the people, Said to them: You have presented unto me this man, as one that perverteth the people; and behold I, having examined him before you, find no cause in this man, in those things wherein you accuse him. No, nor Herod neither. For I sent you to him, and behold, nothing worthy of death is done to him. I will chastise him therefore, and release him.</span> Now of necessity he was to release unto them one upon the feast day. But the whole multitude together cried out, saying: Away with this man, and release Barabbas unto us Barabbas: Who, for a certain sedition made in the city, and for a murder, was cast into prison. And Pilate again spoke to them, desiring to release Jesus.</p>
-						<p>But they cried again, saying: Crucify hum, crucify him. And he said to them the third time: Why, wat evil hath this man done? I find no cause of death in him. I will chastise him therefore, and let him go. But they were insistant with loud voices, requiring that he might be crucified; and their voices prevailed.</p>
-					</div>
+					<?php echo getScripture('passages/2/2/', $weeksSinceEpoc); ?>
 				</div>
 				<p class='guide'>[Fruit of the Mystery]</p>
 				<p>Fruit of the mystery: Purity</p>
@@ -132,14 +113,7 @@
 				<b><p class='guide'>[Third Sorrowful Mystery]</p></b>
 				<p>The Third Sorrowful Mystery: The Crowning with Thorns</p>
 				<div class="rotation-readings">
-					<div class="nab">
-						<p class='guide'>[Reading from Matthew 27:27-31]<img class="img-bible" src="../../Images/bible.png" /><!-- no brief --></p>
-						<p>Then the soldiers of the governor took Jesus inside the praetorium and gathered the whole cohort around him. They stripped off his clothes and threw a scarlet military cloak about him. Weaving a crown out of thorns, they placed it on his head, and a reed in his right hand. And kneeling before him, they mocked him, saying, "Hail, King of the Jews!" They spat upon him and took the reed and kept striking him on the head. And when they had mocked him, they stripped him of the cloak, dressed him in his own clothes, and led him off to crucify him.</p>
-					</div>
-					<div class="dr">
-						<p class='guide'>[Reading from St. Matthew 27:27-31]<img class="img-bible" src="../../Images/bible.png" /><!-- no brief --></p>
-						<p>Then the soldiers of the governor taking Jesus into the hall, gathered together unto him the whole band; And stripping him, they put a scarlet cloak about him. And platting a crown of thorns they put it upon his head, and a reed in his right hand. And bowing the knee before him, they mocked him, saying: Hail, King of the Jews. And spitting upon him, they took the reed, and struck his head. And after they had mocked him, they took off the cloak from him, and put on him his own garments, and led him aay to crucify him.</p>
-					</div>
+					<?php echo getScripture('passages/3/2/', $weeksSinceEpoc); ?>
 				</div>
 				<p class='guide'>[Fruit of the Mystery]</p>
 				<p>Fruit of the Mystery: Courage</p>
@@ -164,14 +138,7 @@
 				<b><p class='guide'>[Fourth Sorrowful Mystery]</p></b>
 				<p>The Fourth Sorrowful Mystery: The Carrying of the Cross</p>
 				<div class="rotation-readings">
-					<div class="nab">
-						<p class='guide'>[Reading from Luke 23:26-32]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p><span class="brf">As they led him away they took hold of a certain Simon, a Cyrenian, who was coming in from the country; and after laying the cross on him, they made him carry it behind Jesus. A large crowd of people followed Jesus, including many women who mourned and lamented him. Jesus turned to them and said, "Daughters of Jerusalem, do not weep for me; weep instead for yourselves and for your children</span>, for indeed, the days are coming when people will say, 'Blessed are the barren, the wombs that never bore and the breasts that never nursed.' At that time people will say to the mountains, 'Fall upon us!' and to the hills, 'Cover us!' for if these things are done when the wood is green, what will happen when it is dry?" Now two others, both criminals, were led away with him to be executed.</p>
-					</div>
-					<div class="dr">
-						<p class='guide'>[Reading from St. Luke 23:26-32]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p><span class="brf">And as they led him away, they laid hold of one Simon of Cyrene. coming from the country; and they laid the cross on him to carry after Jesus. And there followed him a great multitude of people, and of women, who bewailed and lamented him. But Jesus turning to them, said: Daughters of Jerusalem, weep not over me; but weep for yourselves, and for your children.</span> For behold, the days shall come, wherein they will say: Blessed are the barren, and the wombs that have not borne, and the paps that have not given suck. Then shall they begin to say to the mountains: Fall upon us; and to the hills: Cover us. For if in the green wood they do these things, what shall be done in the dry?</p>
-					</div>
+					<?php echo getScripture('passages/4/2/', $weeksSinceEpoc); ?>
 				</div>
 				<p class='guide'>[Fruit of the Mystery]</p>
 				<p>Fruit of the Mystery: Patience</p>
@@ -196,39 +163,10 @@
 				<b><p class='guide'>[Fifth Sorrowful Mystery]</p></b>
 				<p>The Fifth Sorrowful Mystery: The Crucifixion of Our Lord Jesus Christ</p>
 				<div class="rotation-readings">
-					<div class="nab">
-						<p class='guide'>[Reading from Exodus 12:1-13]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p><span class="brf">The Lord said to Moses and Aaron in the land of Egypt:</span> This month will stand at the head of your calender, you will reckon it the first month of the year. Tell the whole community of Israel: On the tenth of this month every family must procure for itself a lamb, it along with its nearest neighbor will procure one, and apportion the lamb's cost in proportion to the number of persons, according to what each household consumes. <span class="brf">Your lamb must be a year-old male and without blemish. You may take it from either the sheep or the goats. You will keep it until the fourteenth day of this month, and then, with the whole community of Israel assembled, it will be slaughtered during the evening twilight. They will take some of its blood and apply it to the two doorposts and the lintel of the houses in which they eat it.</span> They will consume its meat that same night, eating it roasted with unleavened bread and bitter herbs. Do not eat any of it raw or even boiled in water, but roasted, with its head and shanks and inner organs. You must not keep any of it beyond the morning; whatever is left over in the morning must be burned up. This is how you are to eat it: with your loins girt, sandals on your feet and your staff in hand, you will eat it in a hurry. It is the Lord's Passover. <span class="brf">For on this same night I will go through Egypt, striking down every firstborn in the land, human being and beast alike, and executing judgement on all the gods of Egypt&mdash;I, the Lord!  But for you the blood will mark the houses where you are. Seeing the blood, I will pass over you; thereby, when I strike the land of Egypt, no destructive blow will come upon you.</span></p>
-					</div>
-					<div class="dr">
-						<p class='guide'>[Reading from Exodus 12:1-13]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p><span class="brf">And the Lord said to Moses and Aaron in the land of Egypt:</span> This month shall be to you the beginning of months: it shall be the first in the months of the year. Speak ye to the whole assembly of the children`of Israel, and say to them: On the tenth day of this month let every man take a lamb by their families and houses. But if the number be less than may suffice to eat the lamb, he shall take unto him his neighbor that joineth to his house, according to the number of souls which may be enough to eat the lamb. <span class="brf">And it shall be a lamb without blemish, a male, of one year: according to which rite also you shall take a kid. And you shall keep it until the fourteenth day of this month: and the whole multitude of the children of Israel shall sacrifice it in the evening. And they shall take of the blood thereof, and put it upon both the side posts, and on the upper door posts of the houses, wherein they shall eat it.</span> And they shall eat the flesh that night roasted at the fire, and unleavened bread with wild lettuce. You shall not eat thereof any thing raw, nor boiled in water, but only roasted at the fire: you shall eat the head with the feet and entrails thereof. Neither shall there remain any thing of it until morning. If there be any thing left, you shall burn it with fire. And thus you shall eat it: you shall gird your reins, and you shall have shoes on your feet, holding staves in your hands, and you shall eat in haste: for it is the Phase (that is the Passage) of the Lord. <span class="brf">And I will pass through the land of Egypt that night, and will kill every firstborn in the land of Egypt both man and beast: and against all the gods of Egypt I will execute judgements: I <i>am</i> the Lord. And the blood shall be unto you for a sign in the houses where you shall be: and I shall see the blood, and shall pass over you: and the plague shall not be upon you to destroy you, when I shall strike the land of Egypt.</p>
-					</div>
-					<div class="nab">
-						<p class='guide'>[Reading from Genesis 22:1-8]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p>Some time afterward, God put Abraham to the test and said to him: Abraham! "Here I am!" he replied. Then God said: Take your son Isaac, your only one, whom you love, and go to the land of Moriah. There offer him up as  a burnt offering on one of the heights that I will point out to you. Early the next morning Abraham saddled his donkey, took with him two of his servants and his son Isaac, and after cutting the wood for the burnt offering, set out for the place of which God had told him. On the third day Abraham caught sight of the place from a distance. Abraham said to his servants: "Stay here with the donkey, while the boy and I go on over there. We will worship and then come back to you." <span class="brf">So Abraham took the wood for the burnt offering and laid it on his son Isaac, while he himself carried the fire and the knife. As the two walked on together, Isaac spoke to his father Abraham. "Father!" he said. "Here I am," he replied. Isaac continued, "Here are the fire and the wood, but where is the sheep for the burnt offering?" "My son," Abraham answered, "God will provide the sheep for the burnt offering." Then the two walked on together.</span></p>
-					</div>
-					<div class="dr">
-						<p class='guide'>[Reading from Genesis 22:1-8]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p>After these things, God tempted Abraham, and said to him: Abraham, Abraham. And he answered: Here I am. He said to him: Take thy only begotten son Isaac, whom thou lovest, and go into the land of vision: and there thou shalt offer him for an holocaust upon one of the mountains which I will shew thee. So Abraham rising up in the night, saddled his ass: and took with him two young men, and Isaac his son: and when he had cut wood for the holocaust he went his wway to the place which God had commanded him. And on the third day, lifting up his eyes, he saw the place afar off. And he said to his young men: Stay you here with the ass: I and the boy will go with speed as far as yonder, and after we have worshipped, will return to you. <span class="brf">And he took the wood for the holocaust, and laid it upon Isaac his son: and he himself carried in his hands fire and a sword. And as they two went on together, Isaac said to his father: My father. And he answered: What wilt thou, son? Behold, saith he, fire and wood: where is the victim for the holocaust? But Abraham said: God will provide himself a victim for an holocaust, my son. So they went on together.</span></p>
-					</div>
+					<?php echo getScripture('passages/5/1/', $weeksSinceEpoc); ?>
 				</div>
 				<div class='rotation-readings'>
-					<div class="nab">
-						<p class='guide'>[Reading from Luke 23:33-47]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p><span class="brf">When they came to the place called the Skull, they crucified him and the criminals there, one on his right, the other on his left. Then Jesus said, "Father, forgive them, they know not what they do." They divided his garments by casting lots. The people stood by and watched; the rulers, meanwhile, sneered at him and said, "He saved others, let him save himself if he is the chosen one, the Messiah of God."</span> Even the soldiers jeered at him. As they approached to offer him wine they called out, "If you are King of the Jews, save yourself." Above him there was an inscription that read, "This is the King of the Jews."</p>
-						<p>Now one of the criminals hanging there reviled Jesus, saying, "Are you not the Messiah? Save yourself and us." The other, however, rebuking him, said in reply, "Have you no fear of God, for you are subject to the same condemnation? And indeed, we have been condemned justly, for the sentence we received corresponds to our crimes, but this man has done nothing criminal." Then he said, "Jesus, remember me when you come into your kingdom." He replied to him, "Amen I say to you, today you will be with me in Paradise."</p>
-						<p>It was now about noon and darkness came over the whole land until three in the afternoon because of an eclipse of the sun. Then the veil of the temple was torn down the middle. Jesus cried out in a loud voice, "Father, into your hands I commend my spirit"; and when he had said this he breathed his last. The centurion who witnessed what had happened glorified God and said, "This man was innocent beyond doubt."</p>
-					</div>
-					<div class="dr">
-						<p class='guide'>[Reading from St. Luke 23:33-47]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p><span class="brf">And when they were come to the place which is called Calvary, they crucified him there; and the robbers, one on the right hand, and the other on the left. And Jesus said: Father, forgive them, for they know not what they do. But they, dividing his garments, cast lots. And the people stood beholding, and the rulers with them derided him, saying: He saved others; let him save himself, if he be Christ, the elect of God.</span> And the soldiers also mocked him, coming to him, and offering him vinegar. And saying: If thou be the king of the Jews, save thyself. And there was also a superscription written over him in letters of Greek, and Latin, and Hebrew: This is the King of the Jews. And one of those robbers who were hanged blasphemed him, saying: If thou be Christ, save thyself and us. But the other answering, rebuking him, saying: Neither dost thou fear God, seeing thou art under the same condemnation? And we indeed justly, for we receive the due reward of our deeds; but this man hath done no evil. And he said to Jesus: Lord, remember me when thou shalt come into thy kingdom. And Jesus said to him: Amen I say to thee, this day thou shalt be with me in paradise. And it was almost the sixth hour; and there was darkness over all the earth until the ninth hour. And the sun was darkened, and the veil of the temple was rent in the midst. And Jesus crying with a loud voice, said: Father, into thy hands I commend my spirit. And saying this, he gave up the ghost. Now the centurion, seeing what was done, glorified God, saying: Indeed this was a just man.</p>
-					</div>
-					<div class="dr">
-						<p class='guide'>[Reading from St. Mark 15:22-39]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-						<p>And they bring him into the place called Golgotha, which being interpreted is, The place of Calvary. And they gave him to drink wine mingled with myrrh; but he took it not. And crucifying him, they divided his garments, casting lots upon them, what every man should take. <span class="brf">And it was the third hour, and they crucified him. And the inscription of his cause was written over: The King of the Jews. And with him they crucify two thieves; the one on his right hand, and the other on his left. And the scripture was fulfilled, which saith: <i>And with the wicked he was reputed.</i> And they that passed by blasphemed him, wagging their heads, and saying: Vah, thou that destroyest the temple of God, and in three days buildest it up again; Save thyself, coming down from the cross.</span> In like manner also the chief priests mocking, said with the scribes one to another: He saved others; himself he cannot save.</p>
-						<p>Let Christ the king of Israel come down now from the cross, that we may see and belueve. And they that were crucified with him reviled him. And when the sixth hour was come, there was darkness over the whole earth until the ninth hour. And at the ninth hour, Jesus cried out with a loud voice, saying: Eloi, Eloi, lamma sabacthani? Which is, being interpreted, My God, my God, why hast thou forsaken me? And some of the standers by hearing, said: Behold he calleth Elias. And one running and filling a sponge with vinegar, and putting it upon a reed, gave him to drink, saying: Stay, let us see if Elias come to take him down. And Jesus having cried out with a loud voice, gace yp the ghost. And the veil of the temple was rent in two, from the top to the bottom. And the centurion who stood over against him, seeing that crying out in this manner he had given up the ghost, said: Indeed, this man was the son of God.</p>
-					</div>
+					<?php echo getScripture('passages/5/2/', $weeksSinceEpoc); ?>
 				</div>
 				<p class='guide'>[Fruit of the Mystery]</p>
 				<p>Fruit of the Mystery: Perseverence</p>

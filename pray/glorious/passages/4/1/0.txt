@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Judith 15:9-10]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>When they came to her, all with one accord blessed her, saying: "You are the glory of Jerusalem! You are the great pride of Israel! You are the great boast of our nation! By your own hand you have done all this. You have done good things for Israel, and God is pleased with them. May the Almighty Lord bless you forever!" And all the people said, "Amen!"</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Judith 15:10-12]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>And when she was come out to him, they all blessed her with one voice, saying: Thou art the glory of Jerusalem, thou art the joy of Israel, thou are the honor of our people: For thou hast done manually, and thy heart has been strengthened, because thou hast loved chastity, and after thy husband hast not known any other: therefore also the hand of the Lord hath strengthened thee, and therefore thou shalt be blessed for ever. And all the people said: So be it, so be it.</p>
+</div>

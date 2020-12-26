@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Proverbs 20:27-30]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>A lamp from the Lord is human life-breath; it searches through the inmost being. His steadfast loyalty safeguards the king, and he upholds his throne of justice. The glory of the young is their strength, and the dignity of the old is gray hair. <span class="brf">Evil is cleansed away by bloody lashes, and a scourging to the inmost being.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Proverbs 20:27-30]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>The spirit of a man is the lamp of the Lord, which searcheth all the hidden things of the bowels. Mercy and truth preserve the king, and his throne is strengthened by clemency. The joy of young men is their strength: and the dignity of old men, their grey hairs. <span class="brf">The blueness of a wound shall wipe away evils: and stripes in the more inward parts of the belly.</span></p>
+</div>

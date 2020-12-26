@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Judith 13:18-19]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>Then Uzziah said to her, "Blessed are you, daughter, by the Most High God, above all the women on earth; and blessed be the Lord God, the creator of heaven and earth, who guided your blow at the head of the leader of our enemies.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Judith 13:23-24]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>And Ozias the prince of the people of Israel, said to her: Blessed art thou, O daughter, by the Lord the most high God, above all women upon the earth. Blessed be the Lord who made heaven and earth, who hath directed thee to the cutting off the head of the prince of our enemies.</p>
+</div>

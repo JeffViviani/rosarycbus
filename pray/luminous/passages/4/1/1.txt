@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from 2 Maccabees 3:24]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>But just as Heliodorus was arriving at the treasury with his bodyguards, the Lord of spirits and all authority produced an apparition so great that those who had been bold enough to accompany Heliodorus were panic-stricken at God's power and fainted away in terror.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from 2 Maccabees 3:23-24]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>But Heliodorus executed that which he had resolved on, himself being present in the same place with his guard about the treasury. But the spirit of the almighty God gave a great evidence of his presence, so that all that had presumed to obey him, falling down by the power of God, were struck with fainting and dread.</p>
+</div>
