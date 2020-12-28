@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from 1 Corinthians 2:1-5]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>When I came to you, brothers, proclaiming the mystery of God, I did not come with sublimity of words or of wisdom. <span class="brf">For I resolved to know nothing while I was with you except Jesus Christ, and him crucified.</span> I came to you in weakness and fear and much trembling, and my message and my proclamation were not with persuasive [words of] wisdom, but with a demonstration of spirit and power, so that your faith might rest not on human wisdom but on the power of God.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from 1 To The Corinthians 2:1-5]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>And I, brehtren, when I came to you, came not in loftiness of speech or of wisdom, declaring unto you the testimony of Christ. <span class="brf">For I judged not myself to know anything among you, but Jesus Christ, and him crucified.</span> And I was with you in weakness, and in fear, and in much trembling. And my speech and my preaching was not in the persuasive words of human wisdom, but in shewing of the Spirit and power; That your faith might not stand on the wisdom of men, but on the power of God.</p>
+</div>
