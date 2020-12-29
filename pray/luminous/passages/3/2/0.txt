@@ -1,4 +1,4 @@
-<div class="nab">	
+<div class="nab">
 	<p class='guide'>[Reading from Matthew 5:3-12]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
 	<p><span class="brf">"Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are they who mourn, for they will be comforted. Blessed are the meek, for they will inherit the land. Blessed are they who hunger and thirst for righteousness, for they will be satisfied. Blessed are the merciful, for they will be shown mercy. Blessed are the clean of heart, for they will see God. Blessed are the peacemakers, for they will be called children of God. Blessed are they who are persecuted for the sake of righteousness, for theirs is the kingdom of heaven.</span></p>
 	<p>Blessed are you when they insult you and persecute you and utter every kind of evil against you falsely because of me. Rejoice and be glad, for your reward will be great in heaven. Thus they persecuted the prophets who were before you."</p>
