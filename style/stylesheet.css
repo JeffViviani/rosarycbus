@@ -73,6 +73,10 @@
 	display: inline-block;
 	text-align: center;
 }
+.expandable-box {
+	height:auto;
+	display: none;
+}
 .pretty-line {
 	margin: 1em auto 0 auto;
 	pading: 0;
@@ -235,6 +239,9 @@ select {
 .wide-link:hover {
 	background-color:#f5f25d;
 }
+.red {
+	color: red;
+}
 .rotation-readings .brf {
 	color:black;
 }
@@ -258,6 +265,20 @@ select {
 	font-size:0.5em;
 	color:red;
 	height:2em;
+}
+.section-btn {
+	user-select: none;
+	background-color: #edecd3;
+	text-align: center;
+	font-size: 1.4em;
+	border-bottom: 1px solid black;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 1em 0 1em 0;
+}
+.section-btn:hover {
+	background-color: #dedba9;
+	cursor: pointer;
 }
 ul {
 	list-style-position: inside;

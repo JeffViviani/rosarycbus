@@ -21,6 +21,20 @@ window.onload = function() {
 			}
 		}
 	}
+
+	let sectionbtns = document.getElementsByClassName("section-btn");
+	for(let index = 0; index < sectionbtns.length; index++) {
+		sectionbtns[index].onclick = function() {
+			console.log("YAY!");
+			let sib = this.nextElementSibling;
+			if(sib.style.display != "block") {
+				sib.style.display = "block";
+			} else {
+				sib.style.display = "none";
+			}
+		}
+	}
+
 	hideAllReadings();
 	loadReadings();
 }

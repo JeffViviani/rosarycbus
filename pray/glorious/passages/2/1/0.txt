@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from John 16:4-7]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>"I have told you this so that when their hour comes you may remember that I told you. I did not tell you this from the beginning, because I was with you. But now I am going to the one who sent me, and not one of you asks me, 'Where are you going?' <span class="brf">But because I told you this, grief has filled your hearts. But I tell you the truth, it is better for you that I go. For if I do not go, the Advocate will not come to you. But if I go, I will send him to you."</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from St. John 16:4-7]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>But these things I have told you, that when the hour shall come, you may remember that I told you of them. But I told you not these things from the beginning, because I was with you. And now I go to him that sent me, and none of you asketh me: Wither goest thou? <span class="brf">But because I have spoken these things to you, sorrow hath filled your heart. But I tell you the truth: it is expedient to you that I do: for if I go not, the Paraclete will not come to you; but if I go, I will send him to you.</span></p>
+</div>
