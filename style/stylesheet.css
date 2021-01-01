@@ -210,7 +210,7 @@
 }
 #main-content p {
 	margin: 1.5em;
-	font-size:1.25em;
+	font-size:1.25rem;
 	
 }
 .triangle {
@@ -250,7 +250,6 @@ select {
 	padding: 0.4em 0 0.4em;
 	background-color:#e3e6ba;
 	font-family: TimesNewRoman, "Times New Roman", Times;
-	font-size: 1em;
 }
 .rotation-readings label {
 	vertical-align: center;
