@@ -64,7 +64,6 @@
 	position: relative;
 	display: inline-block;
 	align-self: stretch;
-	/*border: 1px solid blue;*/
 }
 .div-content-right-half {
 	width: 100%;
@@ -210,7 +209,7 @@
 }
 #main-content p {
 	margin: 1.5em;
-	font-size:1.25rem;
+	font-size:1.25em;
 	
 }
 .triangle {
@@ -235,6 +234,9 @@
 select {
 	margin: 0.5em;
 	background-color: #f4f7d7;
+}
+#translation-select {
+	font-size:1.25em;
 }
 .wide-link:hover {
 	background-color:#f5f25d;
