@@ -1,8 +1,8 @@
 <div class="nab">
-	<p class='guide'>[Reading from Mark 4:26-28]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p class='guide'>[Reading from the holy Gospel according to St. Mark 4:26-28]<img class="img-bible" src="../../Images/bible.png" /></p>
 	<p>He said, "This is how it is with the kingdom of God; it is as if a man were to scatter seed on the land and would sleep and rise night and day and the seed would sprout and grow, he knows not how. Of its own accord the land yields fruit, first the blade, then the ear, then the full grain in the ear. And when the grain is ripe, he wields the sickle at once, for the harvest has come."</p>
 </div>
 <div class="dr">
-	<p class='guide'>[Reading from St. Mark 4:26-28]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p class='guide'>[Reading from the holy Gospel according to St. Mark 4:26-28]<img class="img-bible" src="../../Images/bible.png" /></p>
 	<p>And he said: So is the kingdom of God, as if a man should cast seed into the earth, And should sleep, and rise, night and day, and the seed should spring, and grow up whilst he knoweth not. For the earth of itself bringeth forth fruit, first the blade, then the ear, afterwards the full corn in the ear. And when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come.</p>
 </div>

@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Exodus 40:34-35]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>Then the cloud covered the tent of meeting, and the glory of the Lord filled the tabernacle. Moses could not enter the tent of meeting, because the cloud had settled down upon it and the glory of the Lord filled the tabernacle.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Exodus 40:32-33]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>The cloud covered the tabernacle of the testimony, and the glory of the Lord filled it. Neither could Moses go into the tabernacle of the covenant, the cloud covering all things, and the majesty of the Lord shining, for the cloud had covered all.</p>
+</div>
