@@ -4,5 +4,5 @@
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Judith 15:10-12]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>And when she was come out to him, they all blessed her with one voice, saying: Thou art the glory of Jerusalem, thou art the joy of Israel, thou are the honor of our people: For thou hast done manually, and thy heart has been strengthened, because thou hast loved chastity, and after thy husband hast not known any other: therefore also the hand of the Lord hath strengthened thee, and therefore thou shalt be blessed for ever. And all the people said: So be it, so be it.</p>
+	<p>And when she was come out to him, they all blessed her with one voice, saying: Thou art the glory of Jerusalem, thou art the joy of Israel, thou art the honor of our people: For thou hast done manfully, and thy heart has been strengthened, because thou hast loved chastity, and after thy husband hast not known any other: therefore also the hand of the Lord hath strengthened thee, and therefore thou shalt be blessed for ever. And all the people said: So be it, so be it.</p>
 </div>
