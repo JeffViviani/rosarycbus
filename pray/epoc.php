@@ -1,6 +1,6 @@
 <?php
   $daysSinceEpoc = floor(time() / 86400);
-  $weeksSinceEpoc = floor($daysSinceEpoc / 7);
+  $weeksSinceEpoc = floor($daysSinceEpoc / 3.5);
 
   function numFilesInDir($dir)  {
     $fileCount = 0;

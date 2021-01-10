@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Jeremiah 4:19]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>My body! My body! how I writhe! The walls of my heart! My heart beats wildly, I cannot be still; For I myself have heard the blast of the horn, the battle cry.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Jeremias 4:19]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>My bowels, my bowels are in pain, the senses of my heart are troubled within me, I will not hold my peace, for my soul hath heard the sound of the trumpet, the cry of battle.</p>
+</div>
