@@ -16,7 +16,7 @@
 .big-pretty-text-sorrowful {
 	font-family: Times
 	font-size:3em;
-	margin: 0.5em;
+	margin: 0.8em;
 }
 .div-top-banner {
 	display: flex;
@@ -212,6 +212,10 @@
 	font-size:1.25em;
 	
 }
+#main-content .tiny-text {
+	margin: 0em;	
+	font-size: 0.8em;
+}
 .triangle {
 	position: absolute;
 	width: 0; 
@@ -219,7 +223,7 @@
 	border-bottom: 6em solid transparent;
 	border-left: 6em solid #f9fc49;
 }
-.wide-link {
+.wide-link, .wide-link-disabled {
 	width: 100%;
 	margin:0;
 	padding: 1em;
@@ -230,6 +234,9 @@
 	font-family: 'Noto Sans', sans-serif;
 	box-sizing: border-box;
 	transition: background-color 0.15s;
+}
+.wide-link-disabled {
+	background-color: #d6d5ce;
 }
 select {
 	margin: 0.5em;

@@ -1,6 +1,6 @@
 <div class="nab">
 	<p class='guide'>[Reading from Jeremiah 3:19-21]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-	<p><span style="brf">I thought: How I would like to make you my children! So I gave you a pleasant land, the most beautiful heritage among the nations! You would call me, "My Father," I thought, and you would never turn away from me.</span> But like a woman faithless to her lover thus have you been faithless to me, house of Israel&mdashoracle of the Lord. A cry is heard on the heights! the plaintive weeping of Israel's children, Because they have perverted their way, they have forgotten the Lord, their God.</p>
+	<p><span style="brf">I thought: How I would like to make you my children! So I gave you a pleasant land, the most beautiful heritage among the nations! You would call me, "My Father," I thought, and you would never turn away from me.</span> But like a woman faithless to her lover thus have you been faithless to me, house of Israel&mdash;oracle of the Lord. A cry is heard on the heights! the plaintive weeping of Israel's children, Because they have perverted their way, they have forgotten the Lord, their God.</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Jeremias 3:19-21]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
