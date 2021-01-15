@@ -1,6 +1,6 @@
 <?php
   $daysSinceEpoc = floor((time() - 43200) / 86400);
-  $weeksSinceEpoc = floor($daysSinceEpoc / 3.5);
+  $weeksSinceEpoc = floor($daysSinceEpoc / $rotation_duration);
 
   function numFilesInDir($dir)  {
     $fileCount = 0;
