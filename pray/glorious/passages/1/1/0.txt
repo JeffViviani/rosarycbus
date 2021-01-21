@@ -1,5 +1,5 @@
 <div class="nab">
-	<p class='guide'>[Reading from the holy Gospel according to St. 2:15-19]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p class='guide'>[Reading from the holy Gospel according to St. John 2:15-19]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
 	<p>He made a whip out of cords and drove them all out of the temple area, with the sheep and oxen, and spilled the coins of the money-changers and overturned their tables, and to those who sold doves he said, "Take these out of here, and stop making my Father's house a marketplace." His disciples recalled the words of scripture, "Zeal for your house will consume me." <span class="brf">At this the Jews answered and said to him, "What sign can you show us for doing this?" Jesus answered and said to them, "Destroy this temple and in three days I will raise it up."</span></p>
 </div>
 <div class="dr">

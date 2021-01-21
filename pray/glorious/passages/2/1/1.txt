@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. Luke 9:59-60]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>And to another he said, "Follow me." But he replied, "[Lord,] let me go first and bury my father." But he answered him, "Let the dead bury their dead. But you, go and proclaim the kingdom of God."</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. Luke 9:59-60]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>But he said to another: Follow me. And he said: Lord, suffer me first to go, and to bury my father. And Jesus said to him: Let the dead bury their dead: but go thou, and preach the kingdom of God.</p>
+</div>
