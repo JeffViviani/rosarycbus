@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 6:56-59]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>Whoever eats my flesh and drinks my blood remains in me and I in him. Just as the living Father sent me and I have life because of the Father, so also the one who feeds on me will have life because of me. <span class="brf">This is the bread that came down from heaven. Unlike your ancestors who ate and still died, whoever eats this bread will live forever."</span> These things he said while teaching in the synagogue in Capernaum.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 6:57-60]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>He that eateth my flesh, and drinketh my blood, abideth in me, and I in him. As the living Father hath sent me, and I live by the Father; so he that eateth me, the same also shall live by me. <span class="brf">This is the bread that came down from heaven. Not as your fathers did eat manna, and are dead. He that eateth this bread, shall live for ever.</span> These things he said, teaching in the synagogue, in Capharnaum.</p>
+</div>
