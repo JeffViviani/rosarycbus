@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Hebrews 2:14-15]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>Now since the children share in blood and flesh, he likewise shared in them, that through death he might destroy the one who has the power of death, that is, the devil, and free those who through fear of death had been subject to slavery all their life.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Hebrews 2:14-15]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>Therefore because the children are partakers of flesh amd blood, he also himself in like manner hath been partaker of the same: that, through death, he might destroy him who had the empire of death, that is to say, the devil: And might deliver them, who through the fear of death were all their lifetime subject to servitude.</p>
+</div>

@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Malachi 3:1-2]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">Now I am sending my messenger&mdash; he will prepare the way before me; And the lord whom you seek will come suddenly to his temple; The messenger of the covenant whom you desire&mdash; see, he is coming! says the Lord of hosts.</span> But who can endure the day of his coming? Who can stand firm when he appears? For he will be like a refiner's fire, like fuller's lye.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Malachi 3:1-2]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">Behold I send my angel, and he shall prepare the way before my face. And presently the Lord, whom you seek, and the angel of the testament, whom you desire, shall come to his temple. Behold he cometh, saith the Lord of hosts.</span> And who shall be able to think of the day of his coming? and who shall stand to see him? for he is like a refining fire, and like the fuller's herb.</p>
+</div>
