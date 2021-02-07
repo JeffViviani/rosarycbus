@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. Mark 10:23-27]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>Jesus looked around and said to his disciples, "How hard it is for those who have wealth to enter the kingdom of God!" The disciples were amazed at his words. So Jesus again said to them in reply, "Children, how hard is it to enter the kingdom of God! <span class="brf">It is easier for a camel to pass through [the] eye of [a] needle than for one who is rich to enter the kingdom of God." They were exceedingly astonished and said among themselves, "Then who can be saved?" Jesus looked at them and said, "For human beings it is impossible, but not for God. All things are possible for God."</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. Mark 10:23-27]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>And Jesus looking round about, saith to his disciples: How hardly shall they that have riches, enter into the kingdom of God! And the disciples were astonished at his words. But Jesus again answering, saith to them: Children, how hard is it for them that trust in riches, to enter the kingdom of God? <span class="brf">It is easier for a camel to pass through the eye of a needle, than for a rich man to enter the kingdom of God. Who wondered the more, saying among themselves: Who then can be saved? And Jesus looking on them, saith: With men it is impossible; but not with God: for all things are possible with God.</span></p>
+</div>

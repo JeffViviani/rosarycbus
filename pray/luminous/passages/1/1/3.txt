@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Genesis 1:6-8]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>Then God said: Let there be a dome in the middle of the waters, to separate one body of water from the other. God made the dome, and it separated the water below the dome from the water above the dome. And so it happened. God called the dome "sky." Evening came, and morning followed&mdash;the second day.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Genesis 1:6-8]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>And God said: Let there be a firmament made amidst the waters: and let it divide the waters from the waters. And God made a firmament, and divided the waters that were under the firmament, from those that were above the firmament, and it was so. And God called the firmament, Heaven; and the evening and morning were the second day.</p>
+</div>

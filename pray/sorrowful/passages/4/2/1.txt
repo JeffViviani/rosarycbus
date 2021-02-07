@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 19:14-17]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>It was preparation day for Passover, and it was about noon. And he said to the Jews, "Behold, your king!" They cried out, "Take him away, take him away! Crucify him!" Pilate said to them, "Shall I crucify your king?" The chief priests answered, "We have no king but Caesar." <span class="brf">Then he handed him over to them to be crucified. So they took Jesus, and carrying the cross himself he went out to what is called the Place of the Skull, in Hebrew, Golgotha.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 19:14-17]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>And it was the parasceve of the pasch, about the sixth hour, and he saith to the Jews: Behold your king. But they cried out: Away with him; away with him; crucify him. Pilate saith to them: Shall I crucify your king? The chief priests answered: We have no king but C&#230;sar. <span class="brf">Then therefore he delivered him to them to be crucified. And they took Jesus, and led him forth. And bearing his own cross, he went forth to the place which is called Calvary, but in Hebrew Golgotha.</span></p>
+</div>

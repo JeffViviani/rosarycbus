@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St.Matthew 6:19-21]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>"Do not store up for yourselves treasures on earth, where moth and decay destroy, and thieves break in and steal. <span class="brf">But store up treasures in heaven, where neither moth nor decay destroys, nor thieves break in and steal. For where your treasure is, there also will your heart be."</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St.Matthew 6:19-21]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>Lay not up to yourselves treasures on earth: where the rust, and moth consume, and where thieves break through and steal. <span class="brf">But lay up to yourselves treasures in heaven: where neither the rust nor moth doth consume, and where thieves do not break through, nor steal. For where thy treasure is, there is thy heart also.</span></p>
+</div>
