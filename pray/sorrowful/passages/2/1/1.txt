@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Isaiah 53:3-5]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>He was spurned and avoided by men, a man of suffering, knowing pain, Like one from whom you turn your face, spurned, and we held him in no esteem. Yet it was our pain that he bore, our sufferings he endured. We thought of him as stricken, struck down by God and afflicted, <span class="brf">But he was pierced for our sins, crushed for our iniquity. He bore the punishment that makes us whole, by his wounds we were healed.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Isaias 53:3-5]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>Despised, and the most abject of men, a man of sorrows, and acquainted with infirmity: and his look <i>was</i> as it were hidden and despised, whereupon we esteemed him not. Surely he hath borne our infirmities and carried our sorrows: and we have thought him as it were a leper, and as one struck by God and afflicted. <span class="brf">But he was wounded for our iniquities, he was bruised for our sins: the chastisement of our peace <i>was</i> upon him, and by his bruises we are healed.</span></p>
+</div>
