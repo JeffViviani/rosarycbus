@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 10:17-18]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>"This is why the Father loves me, because I lay down my life in order to take it up again. No one takes it from me, but I lay it down on my own. I have power to lay it down, and power to take it up again. This command I have received from my Father."</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 10:17-18]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>Therefore doth the Father love me: because I lay down my life, that I may take it again. No man taketh it away from me: but I lay it down of myself, and I have the power to lay it down: and I have power to take it up again. This commandment have I received of my Father.</p>
+</div>
