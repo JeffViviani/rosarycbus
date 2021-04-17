@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Wisdom 2:17-21]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>"Let us see whether his words be true; let us find out what will happen to him in the end. <span class="brf">For if the righteous one is the son of God, God will help him and deliver him from the hand of his foes.</span> With violence and torture let us put him to the test that we may have proof of his gentleness and try his patience. <span class="brf">Let us condemn him to a shameful death; for according to his own words, God will take care of him." These were their thoughts, but they erred; for their wickedness blinded them.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Wisdom 2:17-21]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>Let us see then if his words be true, and let us prove what shall happen to him, and we shall know what his end shall be. <span class="brf">For if he be the true son of God, he will defend him, and will deliver him from the hands of his enemies.</span> Let us examine him by outrages and tortures, that we may know his meekness and try his patience. <span class="brf">Let us condemn him to a most shameful death: for there shall be respect had unto him by his words. These things they thought, and were deceived: for their own malice blinded them.</span></p>
+</div>
