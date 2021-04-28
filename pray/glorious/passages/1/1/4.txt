@@ -1,4 +1,4 @@
-<div class="dr">
+<div class="nab">
 	<p class='guide'>[Reading from Wisdom 2:1]<img class="img-bible" src="../../Images/bible.png" /></p>
 	<p>For, not thinking rightly, they said among themselves: "Brief and troubled is our lifetime; there is no remedy for our dying, nor is anyone known to have come back from Hades."</p>
 </div>
