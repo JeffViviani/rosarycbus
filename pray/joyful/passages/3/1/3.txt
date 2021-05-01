@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 1:1-5;14]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">In the beginning was the Word, and the Word was with God, and the Word was God.</span> He was in the beginning with God. All things came to be through him, and without him nothing came to be. What came to be through him was life, and this life was the light of the human race; the light shines in the darkness, and the darkness has not overcome it. [...] <span class="brf">And the Word became flesh and made his dwelling among us, and we saw his glory, the glory as the Father's only Son, full of grace and truth.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 1:1-5;14]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">In the beginning was the Word, and the Word was with God, and the Word was God.</span> The same was in the beginning with God. All things were made by him: and without him was made nothing that was made. In him was life, and the life was the light of men. And the light shineth in darkness, and the darkness did not comprehend it. [...] <span class="brf">And the Word was made flesh, and dwelt among us, (and we saw his glory, the glory as it were of the only begotten of the Father,) full of grace and truth.</span></p>
+</div>

@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 1:32-33]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>John testified further, saying, "I saw the Spirit come down like a dove from the sky and remain upon him. I did not know him, but the one who sent me to baptize with water told me, 'On whomever you see the Spirit come down and remain, he is the one who will baptize with the holy Spirit.'"</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 1:32-33]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>And John gave testimony, saying: I saw the Spirit coming down, as a dove from heaven, and he remained upon him. And I knew him not; but he who sent me to baptize with water, said to me: He upon whom thou shalt see the Spirit descending, and remaining upon him, he it is that baptizeth with the Holy Ghost.</p>
+</div>

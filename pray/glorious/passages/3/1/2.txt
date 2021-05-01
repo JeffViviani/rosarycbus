@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Acts 8:18-20]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>When Simon saw that the Spirit was conferred by the laying on of the apostles' hands, he offerred them money and said, "Give me this power too, so that anyone upon whom I lay my hands may receive the holy Spirit." But Peter said to him, "May your money perish with you, because you thought that you could buy the gift of God with money."</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Acts 8:18-20]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>And when Simon saw, that by the imposition of the hands of the apostles, the Holy Ghost was given, he offerred them money, Saying: Give me also this power, that on whomsoever I shall lay <i>my</i> hands, he may receive the Holy Ghost. But Peter said to him: Keep thy money to thyself, to perish with thee, because thou hast thought that the gift of God may be purchased with money.</p>
+</div>
