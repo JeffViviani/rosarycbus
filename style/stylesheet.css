@@ -242,14 +242,17 @@ select {
 	margin: 0.5em;
 	background-color: #f4f7d7;
 }
-#translation-select {
+#translation-select, #medstyle-select {
 	font-size:1.25em;
 }
 .wide-link:hover {
 	background-color:#f5f25d;
 }
 .red {
-	color: red;
+	color: #a83c1b;
+}
+.regal {
+	color:#3e6345;
 }
 .rotation-readings .brf {
 	color:black;
