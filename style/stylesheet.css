@@ -238,6 +238,9 @@
 .wide-link-disabled {
 	background-color: #d6d5ce;
 }
+#wse {
+	display:none;
+}
 select {
 	margin: 0.5em;
 	background-color: #f4f7d7;
@@ -252,7 +255,8 @@ select {
 	color: #a83c1b;
 }
 .regal {
-	color:#3e6345;
+	color:black;
+	background-color:#e3e6ba;
 }
 .rotation-readings .brf {
 	color:black;

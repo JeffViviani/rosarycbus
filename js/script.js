@@ -5,7 +5,7 @@ var medSelect;
 window.onload = function() {
 	let clock = new Date();
 	saveReadings();
-	weeksSinceEpoc = Math.floor(Math.floor((clock.getTime() / 86400000)) / 7);
+	weeksSinceEpoc = parseInt(document.getElementById("wse").innerText);
 	document.getElementById("translation-select").onchange = function() {
 		hideAllReadings();
 		loadReadings();
@@ -69,15 +69,23 @@ function loadReadings() {
 			//Parse sentences. Gather them all into an array
 			let ps = visibleReadings.getElementsByTagName("p");
 			let sentence = "";
+			let bracketed = false;
 			for(let i=1; i < ps.length; i++) {
 				let text = ps[i].innerText;
 				for(let index = 0; index < text.length; index++) {
 					c = text[index]
-					if(c == "." || c == ";") {
-						sentence += c;
-						sentences.push(sentence);
-						sentence = "";
+					if(c == "." || c == ";" || c == "!" || c == "?") {
+						if(!bracketed) {
+							sentence += c;
+							sentences.push(sentence);
+							sentence = "";
+						}
 					} else {
+						if(c == '[') {
+							bracketed = true;
+						} else if(c == ']') {
+							bracketed = false;
+						}
 						sentence += c;
 					}
 				}
@@ -91,35 +99,48 @@ function loadReadings() {
 				if(!hiddenReadings[i].nextElementSibling.classList.contains("rotation-readings")) {
 					//No, so Hail Mary's are coming up. Parse the sentences and add them before.
 					let pIndex = 0;
-					let sib = hiddenReadings[i];
-					let hailMaryFound = false;
-					while(!hailMaryFound) {
-						let prevSib = sib;
-						console.log(sib.nodeName);
-						sib = sib.nextElementSibling;
-						if(sib.nodeName == "P") {
-							if (sib.innerText.substring(0,4) == "Hail") {
-								hailMaryFound = true;
-							}
-						}
-					}
+					var sib = hiddenReadings[i];
+					sib = nextHm(sib);
 					//At first Hail Mary. Good. Now add p nodes.
-					let max;
-					if (sentences.length > 10) {
-						max = 10;
+					let max, start;
+					pIndex = 0;
+					if(medSelect.value == "intb" && sentences.length > 10) {
+						pIndex = weeksSinceEpoc % (sentences.length - 9);
+						start = pIndex;
+						max = pIndex + 9;
 					} else {
-						max = sentences.length;
+						pIndex = 0;
+						start = 0;
+						max = sentences.length - 1;
 					}
 					
-					for(let pIndex=0; pIndex<max; pIndex++) {
-						let newParagraph = document.createElement("p");
-						console.log("Adding " + pIndex);
-						newParagraph.innerText = sentences[pIndex];
-						newParagraph.classList.add("regal")
-						newParagraph.classList.add("parsedScripture");
-						sib.parentNode.insertBefore(newParagraph,sib);
-						sib = sib.nextSibling.nextSibling;
-					}
+					let denominator = parseFloat(max - start);
+					let hm = 0;
+					
+					/* For each Hail Mary, add appropriate sentences beforehand.
+					 * Know which sentences belong to which Hail Mary's by mathematical
+					 * division and interpolation. */
+					 for(hm=0; hm<10; hm++, sib = nextHm(sib)) {
+						 let moveon = false;
+						 let newHm = true;
+						 /* Determine if pIndex sentence belongs... */
+						 let sentenceDest = Math.round((pIndex - start) / denominator * 9);
+						 while(sentenceDest == hm) {
+							 console.log("ON HM " + hm + " dest is " + sentenceDest + " sentence is " + pIndex);
+							 if(newHm) {
+								 newHm = false;
+								blitBefore(sib, sentences[pIndex]);
+							 } else {
+								 blitAtop(sib.previousElementSibling, sentences[pIndex]);
+							 }
+							 pIndex++;
+							 sentenceDest = Math.round((pIndex - start) / denominator * 9);
+							 if(pIndex > max) {
+								 sentenceDest = -1;
+							 }
+						 }
+						 
+					 }
 					sentences = [];
 				}
 			}
@@ -139,7 +160,24 @@ function hideAllReadings() {
 	}
 }
 
-function integrate(section) {
-	let readings = document.getElementsByClassName("rotation-readings");
-	
+function nextHm(element) {
+	if(element.innerText.substring(0,4) == "Hail") {
+		element = element.nextElementSibling;
+	}
+	while(element != null && element.innerText.substring(0,4) != "Hail") {
+		element = element.nextElementSibling;
+	}
+	return element;
+}
+
+function blitBefore(element, text) {
+	let newParagraph = document.createElement("p");
+	newParagraph.innerText = text;
+	newParagraph.classList.add("regal")
+	newParagraph.classList.add("parsedScripture");
+	element.parentNode.insertBefore(newParagraph, element);
+}
+
+function blitAtop(element,text) {
+	element.innerText += text;
 }
