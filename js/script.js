@@ -126,7 +126,6 @@ function loadReadings() {
 						 /* Determine if pIndex sentence belongs... */
 						 let sentenceDest = Math.round((pIndex - start) / denominator * 9);
 						 while(sentenceDest == hm) {
-							 console.log("ON HM " + hm + " dest is " + sentenceDest + " sentence is " + pIndex);
 							 if(newHm) {
 								 newHm = false;
 								blitBefore(sib, sentences[pIndex]);
@@ -142,6 +141,8 @@ function loadReadings() {
 						 
 					 }
 					sentences = [];
+				} else {
+					sentences.push("\n[To Next Reading...]\n")
 				}
 			}
 			
