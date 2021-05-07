@@ -117,6 +117,8 @@ function loadReadings() {
 					let denominator = parseFloat(max - start);
 					let hm = 0;
 					
+					console.log("NUM SENTENCES: " + sentences.length);
+					
 					/* For each Hail Mary, add appropriate sentences beforehand.
 					 * Know which sentences belong to which Hail Mary's by mathematical
 					 * division and interpolation. */
@@ -156,7 +158,8 @@ function hideAllReadings() {
 		hiddenReadings[i].style.display = "none";
 	}
 	let parsedScriptures = document.getElementsByClassName("parsedScripture");
-	for(let i=0; i<parsedScriptures.length; i++) {
+	let max = parsedScriptures.length;
+	for(let i=0; i<max; i++) {
 		parsedScriptures[0].remove();
 	}
 }
