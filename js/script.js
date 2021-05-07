@@ -144,7 +144,7 @@ function loadReadings() {
 					 }
 					sentences = [];
 				} else {
-					sentences.push("\n[To Next Reading...]\n")
+					sentences[sentences.length - 1] += "\n[To Next Reading...]\n";
 				}
 			}
 			
