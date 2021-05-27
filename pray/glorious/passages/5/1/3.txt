@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Sirach 1:18-20]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>The crown of wisdom is fear of the Lord, flowering with peace and perfect health. Knowledge and full understanding she rains down; she heightens the glory of those who possess her. The root of wisdom is to fear the Lord; her branches are long life.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Ecclesiasticus 1:22-25]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>The fear of the Lord is a crown of wisdom, filling up peace and the fruit of salvation. And it hath seen, and numbered her: but both are the gifts of God. Wisdom shall distribute knowledge, and understanding of prudence: and exalteth the glory of them that hold her. The root of wisdom is to fear the Lord: and the branches thereof are long-lived.</p>
+</div>
