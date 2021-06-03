@@ -31,9 +31,12 @@
 				<a href="../../../luminous/index.html"><div class='bar-3 grey-bar bcm-orange-bar'></div></a>
 				<a href="../../../joyful/index.html"><div class='bar-4 grey-bar bcm-blue-bar'></div></a>
 				<center><h2 class='big-pretty-text-sorrowful'>The Sorrowful Mysteries</h2></center>
-				<center>
-					<select name="translation" id="translation-select" style="display:none;">
+				<center style="display:none;">
+					<select name="translation" id="translation-select">
 						<option value="med"></option>
+					</select>
+					<select name="medstyle" id="medstyle-select">
+						<option value="dis"></option>
 					</select>
 				</center>
 				<center><p class="tiny-text">You are viewing the meditative rosary. To view the scriptural rosary instead, <a href="../../../sorrowful/index.html">click here</a>.</center>
@@ -226,6 +229,7 @@
 				</div>
 			</div>
 			<div id="right-margin"></div>
+			<p id="wse"><?php echo $weeksSinceEpoc ?></p>
 		</div>
 	</body>
 </html>
