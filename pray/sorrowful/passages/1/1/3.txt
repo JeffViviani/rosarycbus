@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from 1 Corinthians 9:19-22]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">Although I am free in regard to all, I have made myself a slave to all so as to win over as many as possible. To the Jews I became like a Jew to win over Jews; to those under the law I became like one under the law&mdash;though I myself am not under the law&mdash;to win over those under the law.</span> To those outside the law I became like one outside the law&mdash;though I am not outside God's law but within the law of Christ&mdash;to win over those outside the law. To the weak I became weak, to win over the weak. <span class="brf">I have become all things to all, to save at least some.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from 1 To The Corinthians 9:19-22]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">For whereas I was free as to all, I made myself the servant of all, that I might gain the more. And I became to the Jews, a Jew, that I might gain the Jews: To them that are under the law, as if I were under the law, (whereas myself was not under the law,) that I might gain them that were under the law.</span> To them that were without the law, as if I were without the law, (whereas I was not without the law of God, but was in the law of Christ,) that I might gain them that were without the law. To the weak I became weak, that I might gain the weak. <span class="brf">I became all things to all men, that I might save all.</span></p>
+</div>

@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. Luke 22:39-44]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>Then going out he went, as was his cutom, to the Mount of Olives, and the disciples followed him. <span clas="brf">When he arrived at the place he said to them, "Pray that you may not undergo the test." After withdrawing about a stone's throw from them and kneeling, he prayed, saying, "Father, if you are willing, take this cup away from me; still, not my will but yours be done." [And to strengthen him an angel from heaven appeared to him. He was in such agony and he prayed so fervently that his sweat became like drops of blood falling on the ground.]</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. Luke 22:39-44]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>And going out, he went, according to his custom, to the mount of Olives. And his disciples also followed him. And when he was come to the place, he said to them: Pray, lest ye enter into temptation. <span class="brf">And he was withdrawn away from them a stone's cast; and kneeling down, he prayed, Saying: Father, if thou wilt, remove this chalice from me: but yet not my will, but thine be done. And there appeared to him an angel from heaven, strengthening him. And being in an agony, he prayed the longer. And his sweat became as drops of blood, trickling down upon the ground.</span></p>
+</div>
