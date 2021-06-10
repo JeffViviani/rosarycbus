@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from 1 Corinthians 15:13-18]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">If there is no resurrection of the dead, then neither has Christ been raised. And if Christ has not been raised, then empty [too] is our preaching; empty, too, your faith.</span> Then we are also false witnesses to God, because we testified against God that he raised Christ, whom he did not raise if in fact the dead are not raised. For if the dead are not raised, neither has Christ been raised, and if Christ has not been raised, your faith is in vain; you are still in your sins. Then those who have fallen asleep in Christ have perished.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from 1 To The Corinthians 15:13-18]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">But if there be no resurrection of the dead, then Christ is not risen again. And if Christ be not risen again, then is our preaching vain, and your faith is also vain.</span> Yea, and we are found false witnesses of God: because we have given testimony against God, that he hath raised up Christ; whom he hath not raised up, if the dead not rise again. For if the dead rise not again, neither is Christ risen again. And if Christ be not risen again, your faith is vain, for you are yet in your sins. Then they also that are fallen asleep in Christ, are perished.</p>
+</div>

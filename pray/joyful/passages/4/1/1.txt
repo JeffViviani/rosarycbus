@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Leviticus 1:14-15]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>If a person offers a bird as a burnt offering to the Lord, the offering brought must be a turtledove or a pigeon. Having brought it to the altar, the priest shall wring its head off and burn it on the altar. The blood shall be drained out against the side of the altar.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Leviticus 1:14-15]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>But if the oblation of a holocaust to the Lord be of birds, of turtles, or of young pigeons, The priest shall offer it at the altar: and twisting back the neck, and breaking the place of the wound, he shall make the blood run down upon the brim of the altar.</p>
+</div>
