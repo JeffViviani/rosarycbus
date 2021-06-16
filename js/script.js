@@ -57,6 +57,8 @@ function saveReadings() {
 function loadReadings() {
 	let hiddenReadings = document.getElementsByClassName("rotation-readings");
 	let sentences = [];
+	let chapters = [];
+	let chapterStartRef = [];
 	for(let i=0; i<hiddenReadings.length; i++) {
 		//For every 'rotation-readings' element...
 		let translation = document.getElementById("translation-select").value;
@@ -69,16 +71,27 @@ function loadReadings() {
 			//Parse sentences. Gather them all into an array
 			let ps = visibleReadings.getElementsByTagName("p");
 			let sentence = "";
+			let temp = ps[0].innerText;
+			chapters.push("<span class='subtle'>" + temp.substring(0, temp.indexOf(':')) + "]</span><br>");
+			chapterStartRef.push(sentences.length);
 			let bracketed = false;
+			
+			/* For each 'p' element in the reading, parse it for sentences. */
+			let passThrough = 0;
 			for(let i=1; i < ps.length; i++) {
 				let text = ps[i].innerText;
 				for(let index = 0; index < text.length; index++) {
 					c = text[index]
-					if(c == "." || c == ";" || c == "!" || c == "?") {
-						if(!bracketed) {
-							sentence += c;
-							sentences.push(sentence);
-							sentence = "";
+					sentence += c;
+					if(c == "." || c == ";" || c == "!" || c == "?" || passThrough == 1) {
+						if(text[index + 1] == '"') {
+							passThrough = 1;
+						} else {
+							if(!bracketed) {
+								sentences.push(sentence);
+								sentence = "";
+								passThrough = 0;
+							}
 						}
 					} else {
 						if(c == '[') {
@@ -86,7 +99,6 @@ function loadReadings() {
 						} else if(c == ']') {
 							bracketed = false;
 						}
-						sentence += c;
 					}
 				}
 			}
@@ -117,7 +129,16 @@ function loadReadings() {
 					let denominator = parseFloat(max - start);
 					let hm = 0;
 					
-					console.log("NUM SENTENCES: " + sentences.length);
+					/* Determine from which chapter the first sentence from a
+					 * reading comes from */
+					 let chapterPtr = chapterStartRef.length - 1;
+					 while(pIndex < chapterStartRef[chapterPtr]) {
+						 chapterPtr--;
+					 }
+					 
+					 /* Fill in chapter for first sentence. Always has a chapter. */
+					 sentences[pIndex] = chapters[chapterPtr] + sentences[pIndex];
+					 chapterPtr++;
 					
 					/* For each Hail Mary, add appropriate sentences beforehand.
 					 * Know which sentences belong to which Hail Mary's by mathematical
@@ -128,8 +149,15 @@ function loadReadings() {
 						 /* Determine if pIndex sentence belongs... */
 						 let sentenceDest = Math.round((pIndex - start) / denominator * 9);
 						 while(sentenceDest == hm) {
+							 
+							 /* If you need to indicate new chapter... */
+							 if(pIndex == chapterStartRef[chapterPtr]) {
+								sentences[pIndex] = chapters[chapterPtr] + sentences[pIndex];
+								chapterPtr++;
+							 }
+							 
 							 if(newHm) {
-								 newHm = false;
+								newHm = false;
 								blitBefore(sib, sentences[pIndex]);
 							 } else {
 								 blitAtop(sib.previousElementSibling, sentences[pIndex]);
@@ -143,11 +171,10 @@ function loadReadings() {
 						 
 					 }
 					sentences = [];
-				} else {
-					sentences[sentences.length - 1] += "\n[To Next Reading...]\n";
+					chapters = [];
+					chapterStartRef = [];
 				}
 			}
-			
 		}
 	}
 }
@@ -176,12 +203,12 @@ function nextHm(element) {
 
 function blitBefore(element, text) {
 	let newParagraph = document.createElement("p");
-	newParagraph.innerText = text;
+	newParagraph.innerHTML = text;
 	newParagraph.classList.add("regal")
 	newParagraph.classList.add("parsedScripture");
 	element.parentNode.insertBefore(newParagraph, element);
 }
 
 function blitAtop(element,text) {
-	element.innerText += text;
+	element.innerHTML += text;
 }

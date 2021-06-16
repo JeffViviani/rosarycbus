@@ -295,6 +295,9 @@ select {
 	background-color: #dedba9;
 	cursor: pointer;
 }
+.subtle {
+	color: #7d8063;
+}
 ul {
 	list-style-position: inside;
 }
