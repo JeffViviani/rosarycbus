@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Leviticus 17:10-12]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">As for anyone, whether of the house of Israel or of the aliens residing among them, who consumes any blood, I will set myself against that individual and will cut that person off from among the people, since the life of the flesh is in the blood, and I have given it to you to make atonement on the altar for yourselves, because it is the blood as life that makes atonement.</span> That is why I have told the Israelites: No one among you, not even a resident alien, may consume blood.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Leviticus 17:10-12]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">If any man whosoever of the house of Israel, and of the strangers that sojourn among them, eat blood, I will set my face against his soul, and will cut him off from among his people: Because the life of the flesh is in the blood: and I have given it to you, that you may make atonement with it upon the altar for your souls, and the blood may be for an expiation of the soul.</span> Therefore I have said to the children of Israel: No soul of you, nor of the strangers that sojourn among you, shall eat blood.</p>
+</div>
