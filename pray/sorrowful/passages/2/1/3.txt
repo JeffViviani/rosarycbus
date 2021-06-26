@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Leviticus 8:22-24]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">Then he brought forward the second ram, the ordination ram, and Aaron and his sons laid their hands on its head. When it was slaughtered, Moses took some of its blood and put it on the lobe of Aaron's right ear, on the thumb of his right hand, and on the big toe of his right foot.</span> Moses had the sons of Aaron also come forward, and he put some of the blood on the lobes of their right ears, on the thumbs of their right hands, and on the big toes of their right feet. The rest of the blood he splashed on all the sides of the altar.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Leviticus 8:22-24]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">He offerred also the second ram, in the consecration of priests: and Aaron, and his sons put their hands upon the head thereof: And when Moses had immolated it, he took of the blood thereof, and touched the tip of Aaron's right ear, and the thumb of his right hand, and in like manner also the great toe of his right foot.</span> He offerred also the sons of Aaron: and when with the blood of the ram that was immolated, he had touched the tip of the right ear of every one of them, and the thumbs of their right hands, and the great toes of their right feet, the rest he poured on the altar round about:</p>
+</div>
