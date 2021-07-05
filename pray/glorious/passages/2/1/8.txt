@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Exodus 13:21-22]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>The Lord preceded them, in the daytime by means of a column of cloud to show them the way, and at night by means of a column of fire to give them light. Thus they could travel both day and night. <span class="brf">Neither the column of cloud by day nor the column of fire by night ever left its place in front of the people.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Exodus 13:21-22]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>And the Lord went before them to shew them the way by day in a pillar of cloud, and by night in a pillar of fire: that he might be the guide of their journey at both times. <span class="brf">There never failed the pillar of the cloud by day, not the pillar of fire by night, before the people.</span></p>
+</div>

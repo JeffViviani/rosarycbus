@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class="guide">[Reading from 2 Maccabees 7:27-29]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>She leaned over close to him and, in derision of the cruel tyrant, said in her native language: "Son, have pity on me, who carried you in my womb for nine months, nursed you for three years, brought you up, educated and supported you to your present age. <span class="brf">I beg you, child, to look at the heavens and the earth and see all that is in them; then you will know that God did not make them out of existing things. In the same way humankind came into existence. Do not be afraid of this executioner, but be worthy of your brothers and accept death, so that in the time of mercy I may receive you again with your brothers."</span></p>
+</div>
+<div class="dr">
+	<p class="guide">[Reading from 2 Machabees 7:27-29]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>So bending herself towards him, mocking the cruel tyrant, she said in her own language: My son, have pity on me, that bore thee nine months in my womb, and gave thee suck three years, and nourished thee, and brought thee up unto this age. <span class="brf">I beseech <i>thee</i>, my son, look upon heaven and earth, and all that is in them: and consider that God made them out of nothing, and mankind also: So thou shalt not fear this tormenter, but being made a worthy partner with thy brethren, receive death, that in that mercy I may receive thee again with thy brethren.</span></p>
+</div>
