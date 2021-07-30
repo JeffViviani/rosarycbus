@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 13:47-50]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">Again, the kingdom of heaven is like a net thrown into the sea, whch collects fish of every kind. When it is full they haul it ashore and sit down to put what is good into buckets. What is bad they throw away.</span> Thus it will be at the end of the age. The angels will go out and separate the wicked from the righteous and throw them into the fiery furnace, where there will be wailing and grinding of teeth.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 13:47-50]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">Again the kingdom of heaven is like to a net cast into the sea, and gathering together all kinds of fishes. Which, when it was filled, they drew out, and sitting by the shore, they chose out the good into vessels, but the bad they cast forth.</span> So shall it be at the end of the world. The angels shall go out, and shall separate the wicked from among the just. And shall cast them into the furnace of fire: there shall be weeping and gnashing of teeth.</p>
+</div>
