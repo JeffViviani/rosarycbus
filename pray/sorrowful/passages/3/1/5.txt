@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Wisdom 2:13-15]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>He professes to have knowledge of God and styles himself a child of the Lord. To us he is the censure of our thoughts; merely to see him is a hardship for us, Because his life is not like that of others, and different are his ways.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Wisdom 2:13-15]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>He boasteth that he hath the knowledge of God, and calleth himself the son of God. He is become a censurer of our thoughts. He is grievous unto us, even to behold: for his life is not like other men's, and his ways are very different.</p>
+</div>
