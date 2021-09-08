@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Wisdom 6:17-21]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>For the first step toward Wisdom is an earnest desire for discipline; then, care for discipline is love of her; love means the keeping of her laws; To observe her laws is the basis for incorruptibility; and incorruptibility makes one close to God; <span class="brf">thus the desire for Wisdom leads to a kingdom. If, then, you find pleasures in throne and scepter, you princes of peoples, honor Wisdom, that you may reign as kings forever.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Wisdom 6:18-22]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>For the beginning of her is the most true desire of discipline. And the care of discipline is love: and love is the keeping of her laws: and the keeping of her laws is the firm foundation of incorruption: And incorruption beingeth near to God. <span class="brf">Therefore the desire of wisdom bringeth to the everlasting kingdom. If then your delight be in thrones, and sceptres, O ye kings of the people, love wisdom, that you may reign for ever.</span></p>
+</div>

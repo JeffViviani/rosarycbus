@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. Luke 12:49-51]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">"I have come to set the earth on fire, and how I wish it were already blazing! There is a baptism with which I must be baptized, and how great is my anguish until it is accomplished!</span> Do you think that I have come to establish peace on the earth? No, I tell you, but rather division.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. Luke 12:49-51]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">I have come to cast fire on the earth: and what will I, but that it be kindled? And I have a baptism wherewith I am to be baptized: and how am I straitened until it be accomplished?</span> Think ye, that I am come to give peace on earth? I tell you, no; but separation.</p>
+</div>

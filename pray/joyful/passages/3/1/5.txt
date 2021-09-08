@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Wisdom 7:1-6]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>I too am a mortal, the same as all the rest, and a descendant of the first one formed of earth. And in my mother's womb I was molded into flesh in a ten-month period&mdash;body and blood, from the seed of man, and the pleasure that accompanies marriage. <span class="brf">And I too, when born, inhaled the common air, and fell upon the kindred earth; wailing, I uttered that first sound common to all. In swaddling clothes and with constant care I was nurtured. For no king has any different origin or birth; one is the entry into life for all, and in one same way they leave it.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Wisdom 7:1-6]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>I myself also am a mortal man, like all <i>others</i>, and of the race of him, that was first made of the earth, and in the womb of my mother I was fashioned to be flesh. In the time of ten months I was compacted in blood, of the seed of man, and the pleasure of sleep concurring. <span class="brf">And being born I drew in the common air, and fell upon the earth, that is made alike, and the first voice which I uttered was crying, as all <i>others</i> do. I was nursed in swaddling clothes, and with great cares. For none of the kings had any other beginning of birth. For all men have one entance into life, and the like going out.</span></p>
+</div>
