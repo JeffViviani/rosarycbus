@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 20:19-23]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>On the evening of that first day of the week, when the doors were locked, where the disciples were, for fear of the Jews, Jesus came and stood in their midst and said to them, "Peace be with you." When he had said this, he showed them his hands and his side. The disciples rejoiced when they saw the Lord. <span class="brf">[Jesus] said to them again, "Peace be with you. As the Father has sent me, so I send you." And when he had said this, he breathed on them and said to them, "Receive the holy Spirit. Whose sins you forgive are forgiven them, and whose sins you retain are retained.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 20:19-23]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>Now when it was late that same day, the first day of the week, and the doors were shut, where the disciples were gathered together, for fear of the Jews, Jesus came and stood in the midst, and said to them: Peace be to you. And when he had said this, he shewed them his hands and his side. The disciples therefore were glad, when they saw the Lord. <span class="brf">He said therefore to them again: Peace be to you. As the Father hath sent me, I also send you. When he had said this, he breathed on them; and he said to them: Receive ye the Holy Ghost. Whose sins you shall forgive, they are forgiven them; and whose <i>sins</i> you shall retain, they are retained.</span></p>
+</div>
