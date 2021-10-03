@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Psalm 33:8-9]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>Let all the earth fear the Lord; let all who dwell in the world show him reverance. For he spoke, and it came to be, commanded, and it stood in place.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Psalm 33:8-9]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>Let all the earth fear the Lord, and let all the inhabitants of the world be in awe of him. For he spoke and they were made: he commanded and they were created.</p>
+</div>
