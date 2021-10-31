@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 12:27-32]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">"I am troubled now. Yet what should I say? 'Father, save me from this hour'? But it was for this purpose that I came to this hour. Father, glorify your name." Then a voice came from heaven, "I have glorified it and will glorify it again." The crowd there heard it and said it was thunder; but others said, "An angel has spoken to him."</span> Jesus answered and said, "This voice did not come for my sake but for yours. Now is the time of judgement on this world; now the ruler of this world will be driven out. And when I am lifted up from the earth, I will draw everyone to myself."</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 12:27-32]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">Now is my soul troubled. And what shall I say? Father, save me from this hour. But for this cause I came unto this hour. Father, glorify thy name. A voice therefore came from heaven: I have both glorified it, and will glorify it again. The multitude therefore that stood and heard, said that it thundered. Others said: An angel spoke to him.</span> Jesus answered, and said: This voice came not because of me, but for your sakes. Now is the judgement of the world: now shall the prince of this world be cast out. And I, if I be lifted up from the earth, will draw all things to myself.</p>
+</div>

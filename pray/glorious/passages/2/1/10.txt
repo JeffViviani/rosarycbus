@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 7:32-34;45-46]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">The Pharisees heard the crowd murmuring about him to this effect, and the chief priests and the Pharisees sent guards to arrest him. So Jesus said, "I will be with you only a little while longer, and then I will go to the one who sent me. You will look for me but not find [me], and where I am you cannot come."</span> [...] So the guards went to the chief priests and Pharisees, who asked them, "Why did you not bring him?" The guards answered, "Never before has anyone spoken like this one."</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. John 7:32-34;45-46]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">The Pharisees heard the people murmuring these things concerning him: and the rulers and Pharisees sent ministers to apprehend him. Jesus therefore said to them: Yet a little while I am with you: and <i>then</i> I go to him that sent me. You shall seek me, and shall not find me: and where I am, <i>thither</i> you cannot come.</span> [...] The ministers therefore came to the chief priests and the Pharisees. And they said to them: Why have you not brought him? The ministers answered: Never did man speak like this man.</p>
+</div>
