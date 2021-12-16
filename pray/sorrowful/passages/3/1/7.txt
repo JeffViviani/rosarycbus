@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Luke 14:25-26]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>Great crowds were traveling with him, and he turned and addressed them, "If any one comes to me without hating his father and mother, wife and children, brothers and sisters, and even his own life, he cannot be my disciple.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Luke 14:25-26]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>And there went great multitudes with him. And turning, he said to them: If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea and his own life also, he cannot be my disciple.</p>
+</div>

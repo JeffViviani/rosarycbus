@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Numbers 24:16-17]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>The oracle of one who hears what God says, and knows what the Most High knows, Of one who sees what the Almighty sees, in rapture and with eyes unveiled. I see him, though not now; I observe him, though not near: A star shall advance from Jacob, and a scepter shall rise from Israel [...]</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Numbers 24:16-17]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>The hearer of the words of God hath said, who knoweth the doctrine of the Highest, and seeth the visions of the Almighty, who falling hath his eyes opened: I shall see him, but not now: I shall behold him, but not near. A star shall rise out of Jacob and a sceptre shall spring up from Israel [...]</p>
+</div>

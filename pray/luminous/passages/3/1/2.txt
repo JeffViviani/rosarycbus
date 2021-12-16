@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Numbers 14:20-24]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>The Lord answered: I pardon them as you have asked. Yet, by my life and the Lord's glory that fills the whole earth, of all the people who have seen my glory and the signs I did in Egypt and in the wilderness, and who nevertheless have put me to the test ten times already and have not obeyed me, not one shall see the land which I promised on oath to their ancestors. None of those who have spurned me shall see it. <span class="brf">But as for my servant Caleb, because he has a different spirit and follows me unreservedly, I will bring him into the land which he entered, and his descendants shall possess it.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Numbers 14:20-24]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>And the Lord said: I have forgiven according to thy word. As I live: and the whole earth shall be filled with the glory of the Lord. But yet all the men that have seen my majesty, and the signs that I have done in Egypt, and in the wilderness, and have tempted me now ten times, and have not obeyed my voice, Shall not see the land for which I swore to their fathers, neither shall any one of them that hath detracted me behold it. <span class="brf">My servant Caleb, who being full of another spirit hath followed me, I will bring into this land which he hath gone round: and his seed shall possess it.</span></p>
+</div>
