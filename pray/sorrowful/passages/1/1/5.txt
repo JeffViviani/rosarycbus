@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Psalm 4:4-6]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>Know that the Lord works wonders for his faithful one; the Lord hears when I call out to him. Tremble and sin no more; weep bitterly within your hearts, wail upon your beds, Offer fitting sacrifices and trust in the Lord.</p>
+	<p>Know that the Lord works wonders for his faithful one; the Lord hears when I call out to him. Tremble and sin no more; <span class="suc">weep bitterly within your hearts, wail upon your beds</span>, Offer fitting sacrifices and trust in the Lord.</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Psalm 4:4-6]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>Know ye also that the Lord hath made his holy one wonderful: the Lord will hear me when I shall cry unto him. Be ye angry, and sin not: the things you say in your hearts, be sorry for them upon your beds. Offer up the sacrifice of Justice, and trust in the Lord [...]</p>
+	<p>Know ye also that the Lord hath made his holy one wonderful: the Lord will hear me when I shall cry unto him. Be ye angry, and sin not: <span class="suc">the things you say in your hearts, be sorry for them upon your beds</span>. Offer up the sacrifice of Justice, and trust in the Lord [...]</p>
 </div>

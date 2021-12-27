@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 16:24-26]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-	<p><span class="brf">Then Jesus said to his disciples, "Whoever wishes to come after me must deny himself, take up his cross, and follow me.</span> For whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it. What profit would there be for one to gain the whole world and forfeit his life? Or what can one give in exchange for his life?</p>
+	<p><span class="brf">Then Jesus said to his disciples, "Whoever wishes to come after me must deny himself, take up his cross, and follow me.</span> For whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it. What profit would there be for one to gain the whole world and forfeit his life? Or <span class="suc">what can one give in exchange for his life?</span></p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 16:24-26]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-	<p><span class="brf">Then Jesus said to his disciples: If any man will come after me, let him deny himself, and take up his cross, and follow me.</span> For he that will save his life, shall lose it: and he that shall lose his life for my sake, shall find it. For what doth it profit a man, if he gain the whole world, and suffer the loss of his own soul? Or what exchange shall a man give for his soul?</p>
+	<p><span class="brf">Then Jesus said to his disciples: If any man will come after me, let him deny himself, and take up his cross, and follow me.</span> For he that will save his life, shall lose it: and he that shall lose his life for my sake, shall find it. For what doth it profit a man, if he gain the whole world, and suffer the loss of his own soul? <span class="suc">Or what exchange shall a man give for his soul?</span></p>
 </div>

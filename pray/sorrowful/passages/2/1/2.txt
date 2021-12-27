@@ -1,10 +1,10 @@
 <div class="nab">
 	<p class='guide'>[Reading from 1 Samuel 8:4-7]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
 	<p>Therefore all the elders of Israel assembled and went to Samuel at Ramah and said to him, "Now that you are old, and your sons do not follow your example, appoint a king over us, like all the nations, to rule us.</p>
-	<p>Samuel was displeased when they said, "Give us a king to rule us." But he prayed to the Lord. <span class="brf">The Lord said: Listen to whatever the people say. You are not the one they are rejecting. They are rejecting me as their king.</span></p>
+	<p>Samuel was displeased when they said, "Give us a king to rule us." But he prayed to the Lord. <span class="brf">The Lord said: Listen to whatever the people say. You are not the one they are rejecting. <span class="suc">They are rejecting me as their king.</span></span></p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from 1 Kings 8:4-7]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
 	<p>Then all the ancients of Israel being assembled, came to Samuel to Ramatha. And they said to him: Behold thou art old, and thy sons walk not in thy ways: make us a king, to judge us, as all nations have.</p>
-	<p>And the word was displeasing in the eyes of Samuel, that they should say: Give us a king, to judge us. And Samuel prayed to the Lord. <span class="brf">And the Lord said to Samuel: Hearken to the voice of the people in all that they say to thee. For they have not rejected thee, but me, that I should not reign over them.</span></p>
+	<p>And the word was displeasing in the eyes of Samuel, that they should say: Give us a king, to judge us. And Samuel prayed to the Lord. <span class="brf">And the Lord said to Samuel: Hearken to the voice of the people in all that they say to thee. <span class="suc">For they have not rejected thee, but me, that I should not reign over them.</span></span></p>
 </div>

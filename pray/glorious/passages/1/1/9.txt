@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Wisdom 2:22-23]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>And they did not know the hidden counsels of God; neither did they count on a recompense for holiness nor discern the innocent souls' reward. For God formed us to be imperishable; the image of his own nature he made us.</p>
+	<p>And they did not know the hidden counsels of God; neither did they count on a recompense for holiness nor discern the innocent souls' reward. For <span class="suc">God formed us to be imperishable</span>; the image of his own nature he made us.</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Wisdom 2:22-23]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>And they knew not the secrets of God, nor hoped for the wages of justice, nor esteemed the honour of holy souls. For God created man incorruptible, and to the image of his own likeness he made him.</p>
+	<p>And they knew not the secrets of God, nor hoped for the wages of justice, nor esteemed the honour of holy souls. For <span class="suc">God created man incorruptible</span>, and to the image of his own likeness he made him.</p>
 </div>

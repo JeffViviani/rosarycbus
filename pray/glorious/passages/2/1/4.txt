@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from the holy Gospel according to St. John 6:61-62]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>Since Jesus knew that his disciples were murmuring about this, he said to them, "Does this shock you? What if you were to see the Son of Man ascending to where he was before?"</p>
+	<p>Since Jesus knew that his disciples were murmuring about this, he said to them, "Does this shock you? <span class="suc">What if you were to see the Son of Man ascending to where he was before?</span>"</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from the holy Gospel according to St. John 6:62-63]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>But Jesus, knowing in himself, that his disciples murmured at this, said to them: Doth this scandalize you? If then you shall see the Son of man ascend up where he was before?</p>
+	<p>But Jesus, knowing in himself, that his disciples murmured at this, said to them: Doth this scandalize you? <span class="suc">If then you shall see the Son of man ascend up where he was before?</span></p>
 </div>

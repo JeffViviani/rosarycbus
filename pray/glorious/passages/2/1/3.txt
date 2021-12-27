@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from the holy Gospel according to St. John 3:11-13]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>Amen, amen I say to you, we speak of what we know and we testify to what we have seen, but you people do not accept our testimony. If I tell you about earthly things and you do not believe, how will you believe if I tell you about heavenly things? No one has gone up to heaven except the one who has come down from heaven, the Son of Man.</p>
+	<p>Amen, amen I say to you, we speak of what we know and we testify to what we have seen, but you people do not accept our testimony. <span class="suc">If I tell you about earthly things and you do not believe, how will you believe if I tell you about heavenly things?</span> No one has gone up to heaven except the one who has come down from heaven, the Son of Man.</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from the holy Gospel according to St. John 3:11-13]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>Amen, amen I say to thee, that we speak what we know, and we testify what we have seen, and you receive not our testimony. If I have spoken to you earthly things, and you believe not; how will you believe, if I shall speak to you heavenly things? And no man hath ascended into heaven, but he that descended from heaven, the Son of man who is in heaven.</p>
+	<p>Amen, amen I say to thee, that we speak what we know, and we testify what we have seen, and you receive not our testimony. <span class="suc">If I have spoken to you earthly things, and you believe not; how will you believe, if I shall speak to you heavenly things?</span> And no man hath ascended into heaven, but he that descended from heaven, the Son of man who is in heaven.</p>
 </div>

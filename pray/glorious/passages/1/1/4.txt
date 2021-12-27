@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Wisdom 2:1]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>For, not thinking rightly, they said among themselves: "Brief and troubled is our lifetime; there is no remedy for our dying, nor is anyone known to have come back from Hades."</p>
+	<p>For, not thinking rightly, they said among themselves: "Brief and troubled is our lifetime; <span class="suc">there is no remedy for our dying</span>, nor is anyone known to have come back from Hades."</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Wisdom 2:1]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>For they have said, reasoning with themselves, <i>but</i> not right: The time of our life is short and tedious, and in the end of a man there is no remedy, and no man hath been known to have returned from hell:</p>
+	<p>For they have said, reasoning with themselves, <i>but</i> not right: The time of our life is short and tedious, and <span class="suc">in the end of a man there is no remedy</span>, and no man hath been known to have returned from hell:</p>
 </div>

@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Wisdom 5:3-5]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-	<p><span class="brf">They shall say among themselves, rueful and groaning through anguish of spirit: "This is the one whom we once held as a laughingstock and as a type for mockery, fools that we were! His life we accounted madness, and death dishonored.</span> See how he is accounted among the heavenly beings; how his lot is with the holy ones!</p>
+	<p><span class="brf">They shall say among themselves, rueful and groaning through anguish of spirit: "This is the one whom we once held as a laughingstock and as a type for mockery, fools that we were! <span class="suc">His life we accounted madness, and death dishonored.</span></span> See how he is accounted among the heavenly beings; how his lot is with the holy ones!</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Wisdom 5:3-5]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-	<p><span class="brf">Saying within themselves, repenting, and groaning for anguish of spirit: These are they, whom we had some time in derision, and for a parable of reproach. We fools esteemed their life madness, and their end without honour.</span> Behold how they are numbered among the children of God, and their lot is among the saints.</p>
+	<p><span class="brf">Saying within themselves, repenting, and groaning for anguish of spirit: These are they, whom we had some time in derision, and for a parable of reproach. <span class="suc">We fools esteemed their life madness, and their end without honour.</span></span> Behold how they are numbered among the children of God, and their lot is among the saints.</p>
 </div>

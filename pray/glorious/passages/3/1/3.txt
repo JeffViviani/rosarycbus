@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Acts 7:51-53]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>"You stiff-necked people, uncircumcised in heart and ears, you always oppose the holy Spirit; you are just like your ancestors. Which of the prophets did your ancestors not persecute? They put to death those who foretold the coming of the righteous one, whose betrayers and murders you have now become. You received the law as transmitted by angels, but you did not observe it."</p>
+	<p>"You stiff-necked people, uncircumcised in heart and ears, you always oppose the holy Spirit; you are just like your ancestors. Which of the prophets did your ancestors not persecute? They put to death those who foretold the coming of the righteous one, whose betrayers and murders you have now become. <span class="suc">You received the law as transmitted by angels, but you did not observe it.</span>"</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Acts 7:51-53]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>You stiffnecked and uncircumcised in heart and ears, you always resist the Holy Ghost: as your fathers <i>did</i>, so <i>do</i> you also. Which of the prophets have not your fathers persecuted? And they have slain them who foretold of the coming of the Just One; of whom you have been now the betrayers and murderers: Who have received the law by the disposition of angels, and have not kept it.</p>
+	<p>You stiffnecked and uncircumcised in heart and ears, you always resist the Holy Ghost: as your fathers <i>did</i>, so <i>do</i> you also. Which of the prophets have not your fathers persecuted? And they have slain them who foretold of the coming of the Just One; of whom you have been now the betrayers and murderers: <span class="suc">Who have received the law by the disposition of angels, and have not kept it.</span></p>
 </div>

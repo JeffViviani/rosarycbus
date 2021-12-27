@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from the holy Gospel according to St. John 21:18]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>"Amen, amen, I say to you, when you were younger, you used to dress yourself and go where you wanted; but when you grow old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go."</p>
+	<p>"Amen, amen, I say to you, when you were younger, you used to dress yourself and go where you wanted; but <span class="suc">when you grow old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.</span>"</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from the holy Gospel according to St. John 21:18]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>Amen, amen I say to thee, when thou wast younger, thou didst gird thyself, and didst walk where thou wouldst. But when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and lead thee whither thou wouldst not.</p>
+	<p>Amen, amen I say to thee, when thou wast younger, thou didst gird thyself, and didst walk where thou wouldst. <span class="suc">But when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and lead thee whither thou wouldst not.</span></p>
 </div>

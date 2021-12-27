@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Wisdom 2:1,11]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>For, not thinking rightly, they said among themselves: [...] But let our strength be our norm of righteousness; for weakness proves itself useless.</p>
+	<p>For, <span class="suc">not thinking rightly, they said among themselves: [...] But let our strength be our norm of righteousness</span>; for weakness proves itself useless.</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Wisdom 2:1,11]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>For they have said, reasoning with themselves, <i>but</i> not right: [...] But let our strength be the law of justice: for that which is feeble, is found to be nothing worth.</p>
+	<p>For <span class="suc">they have said, reasoning with themselves, <i>but</i> not right: [...] But let our strength be the law of justice</span>: for that which is feeble, is found to be nothing worth.</p>
 </div>

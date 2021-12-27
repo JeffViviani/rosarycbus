@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Acts 8:14-17]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>Now when the apostles in Jerusalem heard that Samaria had accepted the word of God, they send them Peter and John, who went down and prayed for them, that they might receive the holy Spirit, for it had not yet fallen upon any of them; they had only been baptized in the name of the Lord Jesus. Then they laid hands on them and they received the holy Spirit.</p>
+	<p>Now when the apostles in Jerusalem heard that Samaria had accepted the word of God, <span class="suc">they send them Peter and John, who went down and prayed for them, that they might receive the holy Spirit</span>, for it had not yet fallen upon any of them; they had only been baptized in the name of the Lord Jesus. Then they laid hands on them and they received the holy Spirit.</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Acts 8:14-17]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>Now when the apostles, who were in Jerusalem, had heard that Samaria had received the word of God, they sent unto them Peter and John. Who, when they were come, prayed for them, that they might receive the Holy Ghost. For he was not as yet come upon any of them; but they were only baptized in the name of the Lord Jesus. Then they laid their hands upon them, and they received the Holy Ghost.</p>
+	<p>Now when the apostles, who were in Jerusalem, had heard that Samaria had received the word of God, <span class="suc">they sent unto them Peter and John. Who, when they were come, prayed for them, that they might receive the Holy Ghost.</span> For he was not as yet come upon any of them; but they were only baptized in the name of the Lord Jesus. Then they laid their hands upon them, and they received the Holy Ghost.</p>
 </div>

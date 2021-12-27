@@ -2,9 +2,9 @@
 	<p class='guide'>[Reading from Acts 2:34-26]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
 	<p><span class="brf">For David did not go up into heaven, but he himself said:</span></p>
 	<p><span class="brf">'The Lord said to my Lord, "Sit at my right hand until I make your enemies your footstool."'</span></p>
-	<p>Therefore let the whole house of Israel know for certain that God has made him both Lord and Messiah, this Jesus whom you crucified.</p>
+	<p>Therefore let the whole house of Israel know for certain that <span class="suc">God has made him both Lord and Messiah, this Jesus whom you crucified.</span></p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Acts 2:34-26]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p><span class="brf">For David ascended not into heaven; but he himself said: <i>The Lord said to my Lord, sit thou on my right hand, Until I make thy enemies thy footstool.</i></span> Therefore let all the house of Israel know most certainly, that God hath made both Lord and Christ, this same Jesus, whom you have crucified.</p>
+	<p><span class="brf">For David ascended not into heaven; but he himself said: <i>The Lord said to my Lord, sit thou on my right hand, Until I make thy enemies thy footstool.</i></span> Therefore let all the house of Israel know most certainly, that <span class="suc">God hath made both Lord and Christ, this same Jesus, whom you have crucified.</span></p>
 </div>

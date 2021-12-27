@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from 1 Corinthians 1:17-18]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>For Christ did not send me to baptize but to preach the gospel, and not with the wisdom of human eloquence, so that the cross of Christ might not be emptied of its meaning. The message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.</p>
+	<p>For Christ did not send me to baptize but to preach the gospel, and not with the wisdom of human eloquence, so that the cross of Christ might not be emptied of its meaning. <span class="suc">The message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.</span></p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from 1 To The Corinthians 1:17-18]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>For Christ did not send me to baptize, but to preach the gospel: not in wisdom of speech, lest the cross of Christ should be made void. For the word of the cross, to them indeed that perish, is foolishness; but to them that are saved, that is, to us, it is the power of God.</p>
+	<p>For Christ did not send me to baptize, but to preach the gospel: not in wisdom of speech, lest the cross of Christ should be made void. <span class="suc">For the word of the cross, to them indeed that perish, is foolishness; but to them that are saved, that is, to us, it is the power of God.</span></p>
 </div>

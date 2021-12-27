@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Exodus 4:22-23]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>So you will say to Pharaoh, Thus says the Lord: Israel is my son, my firstborn. I said to you: Let my son go, that he may serve me. Since you refused to let him go, I will kill your son, your firstborn.</p>
+	<p>So you will say to Pharaoh, Thus says the Lord: Israel is my son, my firstborn. I said to you: Let my son go, that he may serve me. <span class="suc">Since you refused to let him go, I will kill your son, your firstborn.</span></p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Exodus 4:22-23]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>And thou shalt say to him: Thus saith the Lord: Israel is my son, my firstborn. I have said to thee: Let my son go, that he may serve me, and thou wouldst not let him go: behold I will kill thy son, thy firstborn.</p>
+	<p>And thou shalt say to him: Thus saith the Lord: Israel is my son, my firstborn. I have said to thee: Let my son go, that he may serve me, and <span class="suc">thou wouldst not let him go: behold I will kill thy son, thy firstborn.</p>
 </div>
