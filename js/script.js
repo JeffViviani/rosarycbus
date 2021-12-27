@@ -3,6 +3,7 @@ var savedSections = [];
 var medSelect;
 
 window.onload = function() {
+	
 	let clock = new Date();
 	saveReadings();
 	weeksSinceEpoc = parseInt(document.getElementById("wse").innerText);
@@ -10,11 +11,19 @@ window.onload = function() {
 		hideAllReadings();
 		loadReadings();
 	}
+	
+	occSelect = document.getElementById("occasion-select");
+	occSelect.onchange = function() {
+		hideAllReadings();
+		loadReadings();
+	}
+	
 	medSelect = document.getElementById("medstyle-select");
 	medSelect.onchange = function() {
 		hideAllReadings();
 		loadReadings();
 	}
+	
 	let brfbtns = document.getElementsByClassName("brfbtn");
 	for(let index = 0; index < brfbtns.length; index++) {
 		brfbtns[index].onchange = function() {
@@ -44,6 +53,7 @@ window.onload = function() {
 
 	hideAllReadings();
 	loadReadings();
+	
 }
 
 function saveReadings() {
@@ -104,7 +114,19 @@ function loadReadings() {
 			}
 			
 			if(medSelect.value == "dis") {
+				console.log("YEY");
 				visibleReadings.style.display = "block";
+			} else if(medSelect.value == "suc") {
+				let suc = hiddenReadings[i].querySelector(".suc");
+				let text = suc.innerHTML;
+				
+				let newParagraph = document.createElement("p");
+				newParagraph.innerHTML = text;
+				newParagraph.display = "block";
+				newParagraph.classList.add("regal");
+				newParagraph.classList.add("impact");
+				hiddenReadings[i].appendChild(newParagraph);
+				
 			} else {
 			
 				//Is next line another reading or no?

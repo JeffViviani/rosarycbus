@@ -112,6 +112,10 @@
 	vertical-align: bottom;
 	margin-left: 10px;
 }
+.impact {
+	font-size:2.5em !important;
+	color: white;
+}
 .bar-1 {
 	margin:1.4em 0 0 5%;
 	position: relative;
@@ -245,7 +249,7 @@ select {
 	margin: 0.5em;
 	background-color: #f4f7d7;
 }
-#translation-select, #medstyle-select {
+#translation-select, #medstyle-select, #occasion-select {
 	font-size:1.25em;
 }
 .wide-link:hover {
