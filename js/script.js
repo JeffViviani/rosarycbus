@@ -68,6 +68,7 @@ function loadReadings() {
 	let hiddenReadings = document.getElementsByClassName("rotation-readings");
 	let sentences = [];
 	let chapters = [];
+	let chaptersBrf = [];
 	let chapterStartRef = [];
 	for(let i=0; i<hiddenReadings.length; i++) {
 		//For every 'rotation-readings' element...
@@ -83,6 +84,7 @@ function loadReadings() {
 			let sentence = "";
 			let temp = ps[0].innerText;
 			chapters.push("<span class='subtle'>" + temp.substring(0, temp.indexOf(':')) + "]</span><br>");
+			chaptersBrf.push(substrBookChap(temp));
 			chapterStartRef.push(sentences.length);
 			let bracketed = false;
 			
@@ -104,7 +106,7 @@ function loadReadings() {
 							}
 						}
 					} else {
-						if(c == '[') {
+						if(c == '[' && text[index + 1] == '.') {
 							bracketed = true;
 						} else if(c == ']') {
 							bracketed = false;
@@ -114,18 +116,37 @@ function loadReadings() {
 			}
 			
 			if(medSelect.value == "dis") {
-				console.log("YEY");
-				visibleReadings.style.display = "block";
-			} else if(medSelect.value == "suc") {
-				let suc = hiddenReadings[i].querySelector(".suc");
-				let text = suc.innerHTML;
 				
-				let newParagraph = document.createElement("p");
-				newParagraph.innerHTML = text;
-				newParagraph.display = "block";
-				newParagraph.classList.add("regal");
-				newParagraph.classList.add("impact");
-				hiddenReadings[i].appendChild(newParagraph);
+				visibleReadings.style.display = "block";
+				
+			} else if(medSelect.value == "suc") {
+				
+				let suc = visibleReadings.querySelector(".suc");
+				if(suc != null) {
+					
+					let newParagraph;
+					let text = suc.innerHTML;
+					
+					let newDiv = document.createElement("div");
+					
+					if(hiddenReadings[i].nextElementSibling.classList.contains("rotation-readings")) {
+						newParagraph = document.createElement("center");
+						newParagraph.innerHTML = "<p class='guide'>[Meditation]</p>";
+						newDiv.appendChild(newParagraph);
+						newDiv.classList.add("impactTop");
+					} else {
+						newDiv.classList.add("impactBot");
+					}
+					
+					
+					newParagraph = document.createElement("p");
+					newParagraph.innerHTML = chaptersBrf[i] + ' ' + text.toUpperCase();
+					
+					
+					newDiv.appendChild(newParagraph);
+					
+					hiddenReadings[i].parentNode.insertBefore(newDiv, hiddenReadings[i]);
+				}
 				
 			} else {
 			
@@ -199,6 +220,30 @@ function loadReadings() {
 			}
 		}
 	}
+	
+	/* Load Opening and Closing prayers based upon the occasion. */
+	let ords = document.querySelectorAll(".ord");
+	let cels = document.querySelectorAll(".cel");
+	if(occSelect.value == "ord") {
+		
+		for(let i=0; i<ords.length; i++) {
+			ords[i].style.display = "block";
+		}
+		for(let i=0; i<cels.length; i++) {
+			cels[i].style.display = "none";
+		}
+		
+	} else {
+		
+		for(let i=0; i<ords.length; i++) {
+			ords[i].style.display = "none";
+		}
+		for(let i=0; i<cels.length; i++) {
+			cels[i].style.display = "block";
+		}
+		
+	}
+	
 }
 
 function hideAllReadings() {
@@ -211,6 +256,17 @@ function hideAllReadings() {
 	for(let i=0; i<max; i++) {
 		parsedScriptures[0].remove();
 	}
+	let parsedImpactTop = document.getElementsByClassName("impactTop");
+	max = parsedImpactTop.length;
+	for(let i=0; i<max; i++) {
+		parsedImpactTop[0].remove();
+	}
+	let parsedImpactBot = document.getElementsByClassName("impactBot");
+	max = parsedImpactBot.length;
+	for(let i=0; i<max; i++) {
+		parsedImpactBot[0].remove();
+	}
+	
 }
 
 function nextHm(element) {
@@ -233,4 +289,24 @@ function blitBefore(element, text) {
 
 function blitAtop(element,text) {
 	element.innerHTML += text;
+}
+
+function substrBookChap(str) {
+	
+	let indexOfBookStart, indexOfColon;
+	indexOfBookStart = str.indexOf("according to St. ") + 17;
+	if(indexOfBookStart == 16) {
+		indexOfBookStart = str.indexOf("Reading from ") + 13;
+		console.log(indexOfBookStart);
+	}
+	if(indexOfBookStart == 12) {
+		return "___";
+	} else {
+		indexOfColon = str.indexOf(':');
+		if(indexOfColon == -1) {
+			return "___";
+		} else {
+			return "<span class='subtle'>" + str.substring(indexOfBookStart, indexOfColon + 1).toUpperCase() + "</span>";
+		}
+	}
 }

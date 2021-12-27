@@ -89,6 +89,7 @@
 }
 .full-page-box > #main-content {
 	width: 90%;
+	max-width: 50em;
 	padding:0;
 	margin:0 auto 0 auto;
 	background-color: #f4f7d7;
@@ -112,9 +113,20 @@
 	vertical-align: bottom;
 	margin-left: 10px;
 }
-.impact {
-	font-size:2.5em !important;
-	color: white;
+.impactTop, .impactBot {
+	color: black;
+	background-color:#e3e6ba;
+	padding: 1em 2em 1em 2em;
+	margin: 0;
+}
+.impactTop {
+	padding-bottom: 0.2em;
+}
+.impactTop > p, .impactBot > p {
+	margin:0 !important;
+}
+.impactBot {
+	padding-top: 0.2em;
 }
 .bar-1 {
 	margin:1.4em 0 0 5%;
@@ -266,6 +278,7 @@ select {
 	color:black;
 }
 .rotation-readings div {
+	text-align: justify;
 	display:none;
 	padding: 0.4em 0 0.4em;
 	background-color:#e3e6ba;
