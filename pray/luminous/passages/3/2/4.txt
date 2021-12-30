@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 13:44-46]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-	<p><span class="brf">"The kingdom of heaven is like a treasure buried in a field, which a person finds and hides again, and out of joy goes and sells all that he has and buys that field.</span> Again, the kingdom of heaven is like a merchant searching for fine pearls. When he finds a pearl of great price, he goes and sells all that he has and buys it.</p>
+	<p><span class="brf">"The kingdom of heaven is like a treasure buried in a field, which a person finds and hides again, and out of joy goes and sells all that he has and buys that field.</span> Again, the kingdom of heaven is like a merchant searching for fine pearls. <span class="suc">When he finds a pearl of great price, he goes and sells all that he has and buys it.</span></p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 13:44-46]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-	<p><span class="brf">The kingdom of heaven is like unto a treasure hidden in a field. Which a man having found it, hid it, and for joy thereof goeth, and selleth all that he hath, and buyeth that field.</span> Again the kingdom of heaven is like a merchant seeking good pearls. Who when he had found one pearl of great price, went his way, and sold all that he had, and bought it.</p>
+	<p><span class="brf">The kingdom of heaven is like unto a treasure hidden in a field. Which a man having found it, hid it, and for joy thereof goeth, and selleth all that he hath, and buyeth that field.</span> Again the kingdom of heaven is like a merchant seeking good pearls. Who <span class="suc">when he had found one pearl of great price, went his way, and sold all that he had, and bought it.</span></p>
 </div>

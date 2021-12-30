@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Genesis 3:14-15]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>Then the Lord God said to the snake: Because you have done this, cursed are you among all the animals, tame or wild; On your belly you shall crawl, and dust you shall eat all the days of your life. I will put enmity between you and the woman, and between your offspring and hers; they will strike at your head, while you strike at their heel.</p>
+	<p>Then the Lord God said to the snake: Because you have done this, cursed are you among all the animals, tame or wild; On your belly you shall crawl, and dust you shall eat all the days of your life. <span class="suc">I will put enmity between you and the woman</span>, and between your offspring and hers; they will strike at your head, while you strike at their heel.</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Genesis 3:14-15]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>And the Lord God said to the serpent: Because thou hast done this thing, thou art cursed among all cattle, and beasts of the earth: upon thy breast shalt thou go, and earth shalt thou eat all the days of thy life. I will put enmities between thee and the woman, and thy seed and her seed: she shall crush thy head, and thou shalt lie in wait for her heel.</p>
+	<p>And the Lord God said to the serpent: Because thou hast done this thing, thou art cursed among all cattle, and beasts of the earth: upon thy breast shalt thou go, and earth shalt thou eat all the days of thy life. <span class="suc">I will put enmities between thee and the woman</span>, and thy seed and her seed: she shall crush thy head, and thou shalt lie in wait for her heel.</p>
 </div>

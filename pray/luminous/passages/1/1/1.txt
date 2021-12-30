@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 27:24]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>When Pilate saw that he was not succeeding at all, but that a riot was breaking out instead, he took water and washed his hands in the sight of the crowd, saying, "I am innocent of this man's blood. Look to it yourselves."</p>
+	<p>When Pilate saw that he was not succeeding at all, but that a riot was breaking out instead, <span class="suc">he took water and washed his hands in the sight of the crowd</span>, saying, "I am innocent of this man's blood. Look to it yourselves."</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 27:24]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>And Pilate seeing that he prevailed nothing, but that rather a tumult was made; taking water washed his hands before the people, saying: I am innocent of the blood of this just man; look you to it.</p>
+	<p>And Pilate seeing that he prevailed nothing, but that rather a tumult was made; <span class="suc">taking water washed his hands before the people</span>, saying: I am innocent of the blood of this just man; look you to it.</p>
 </div>

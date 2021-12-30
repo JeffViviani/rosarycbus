@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Jeremiah 31:21-22]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>Set up road markers, put up signposts; Turn your attention to the highway, the road you walked. Turn back, virgin Israel, turn back to these your cities. <span class="brf">How long will you continue to hesitate, rebellious daughter? The Lord has created a new thing upon the earth: woman encompasses man.</span></p>
+	<p>Set up road markers, put up signposts; Turn your attention to the highway, the road you walked. Turn back, virgin Israel, turn back to these your cities. <span class="brf">How long will you continue to hesitate, rebellious daughter? <span class="suc">The Lord has created a new thing upon the earth: woman encompasses man.</span></span></p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Jeremias 31:21-22]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>Set thee up a watchtower, make to thee bitterness: direct thy heart into the right way, wherein thou hast walked: return, O virgin of Israel, return to these thy cities. <span class="brf">How long wilt thou be dissolute in deliciousness, O wandering daughter? for the Lord hath created a new thing upon the earth: a woman shall compass a man.</span></p>
+	<p>Set thee up a watchtower, make to thee bitterness: direct thy heart into the right way, wherein thou hast walked: return, O virgin of Israel, return to these thy cities. <span class="brf">How long wilt thou be dissolute in deliciousness, O wandering daughter? <span class="suc">for the Lord hath created a new thing upon the earth: a woman shall compass a man.</span></span></p>
 </div>

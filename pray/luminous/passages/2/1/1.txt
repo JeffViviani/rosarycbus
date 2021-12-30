@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Esther 5:2-3]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>When he saw Queen Esther standing in the courtyard, she won his favor and he extended toward her the golden scepter he held. She came up to him, and touched the top of the scepter. Then the king said to her, "What is it, Queen Esther? What is your request? Even if it is half my kingdom, it shall be granted you."</p>
+	<p>When he saw Queen Esther standing in the courtyard, she won his favor and he extended toward her the golden scepter he held. She came up to him, and touched the top of the scepter. Then the king said to her, "<span class="suc">What is it, Queen Esther? What is your request?</span> Even if it is half my kingdom, it shall be granted you."</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Esther 5:2-3]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>And when he saw Esther the queen standing, she pleased his eyes, and he held out toward her the golden sceptre, which he held in his hand: and she drew near, and kissed the top of his sceptre. And the king said to her: What wilt thou, queen Esther? what is thy request? if thou shouldst even ask one half of the kingdom, it shall be given to thee.</p>
+	<p>And when he saw Esther the queen standing, she pleased his eyes, and he held out toward her the golden sceptre, which he held in his hand: and she drew near, and kissed the top of his sceptre. And the king said to her: <span class="suc">What wilt thou, queen Esther? what is thy request?</span> if thou shouldst even ask one half of the kingdom, it shall be given to thee.</p>
 </div>

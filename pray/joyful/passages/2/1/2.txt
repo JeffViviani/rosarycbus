@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Wisdom 6:6-7]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>For the lowly may be pardoned out of mercy but the mighty shall be mightily put to the test. For the ruler of all shows no partiality, nor does he fear greatness, Because he himself made the great as well as the small, and provides for all alike;</p>
+	<p>For the lowly may be pardoned out of mercy but the mighty shall be mightily put to the test. <span class="suc">For the ruler of all shows no partiality, nor does he fear greatness</span>, Because he himself made the great as well as the small, and provides for all alike;</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Wisdom 6:7-8]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>For to him that is little, mercy is granted: but the mighty shall be mightily tormented. For God will not except any man's person, neither will he stand in awe of any man's greatness: for he made the little and the great, and he hath equally care of all.</p>
+	<p>For to him that is little, mercy is granted: but the mighty shall be mightily tormented. For <span class="suc">God will not except any man's person, neither will he stand in awe of any man's greatness</span>: for he made the little and the great, and he hath equally care of all.</p>
 </div>

@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Numbers 11:4-6]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>The riffraff among them were so greedy for meat that even the Israelites lamented again, "If only we had meat for food! We remember the fish we used to eat without cost in Egypt, and the cucumbers, the melons, the leeks, the onions, and the garlic. But now we are famished; we have nothing to look forward to but this manna.</p>
+	<p>The riffraff among them were so greedy for meat that even the Israelites lamented again, "If only we had meat for food! We remember the fish we used to eat without cost in Egypt, and the cucumbers, the melons, the leeks, the onions, and the garlic. But now we are famished; <span class="suc">we have nothing to look forward to but this manna.</span></p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Numbers 11:4-6]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>For a mixt multitude of people, that came up with them, burned with desire, sitting and weeping, the children of Israel also being joined with them, and said: Who shall give us flesh to eat? We remember the fish that we ate in Egypt free cost: the cucumbers come into our mind, and the melons, and the leeks, and the onions, and the garlic. Our soul is dry, our eyes behold nothing else but manna.</p>
+	<p>For a mixt multitude of people, that came up with them, burned with desire, sitting and weeping, the children of Israel also being joined with them, and said: Who shall give us flesh to eat? We remember the fish that we ate in Egypt free cost: the cucumbers come into our mind, and the melons, and the leeks, and the onions, and the garlic. <span class="suc">Our soul is dry, our eyes behold nothing else but manna.</span></p>
 </div>

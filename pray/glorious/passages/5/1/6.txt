@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 5:14-16]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-	<p><span class="brf">You are the light of the world.</span> A city set on a mountain cannot be hidden. Nor do they light a lamp and then put it under a bushel basket; it is set on a lampstand, where it gives light to all in the house. <span class="brf">Just so, your light must shine before others, that they may see your good deeds and glorify your heavenly Father.</span></p>
+	<p><span class="brf">You are the light of the world.</span> A city set on a mountain cannot be hidden. <span class="suc">Nor do they light a lamp and then put it under a bushel basket</span>; it is set on a lampstand, where it gives light to all in the house. <span class="brf">Just so, your light must shine before others, that they may see your good deeds and glorify your heavenly Father.</span></p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 5:14-16]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-	<p><span class="brf">You are the light of the world.</span> A city seated on a mountain cannot be hid. Neither do men light a candle and put it under a bushel, but upon a candlestick, that it may shine to all that are in the house. <span class="brf">So let your light shine before men, that they may see your good works, and glorify your Father who is in heaven.</span></p>
+	<p><span class="brf">You are the light of the world.</span> A city seated on a mountain cannot be hid. <span class="suc">Neither do men light a candle and put it under a bushel</span>, but upon a candlestick, that it may shine to all that are in the house. <span class="brf">So let your light shine before men, that they may see your good works, and glorify your Father who is in heaven.</span></p>
 </div>

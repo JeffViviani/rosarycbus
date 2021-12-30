@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Numbers 32:6-7]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>But Moses answered the Gadites and Reubenites: "Are your kindred, then, to go to war, while you remain here? Why do you wish to discourage the Israelites from crossing to the land the Lord has given them?</p>
+	<p>But Moses answered the Gadites and Reubenites: "<span class="suc">Are your kindred, then, to go to war, while you remain here?</span> Why do you wish to discourage the Israelites from crossing to the land the Lord has given them?</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Numbers 32:6-7]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>And Moses answered them: What, shall your brethren go to fight, and will you sit here? Why do ye overturn the minds of the children of Israel, that they may not dare to pass into the place which the Lord hath given them?</p>
+	<p>And Moses answered them: What, <span class="suc">shall your brethren go to fight, and will you sit here?</span> Why do ye overturn the minds of the children of Israel, that they may not dare to pass into the place which the Lord hath given them?</p>
 </div>

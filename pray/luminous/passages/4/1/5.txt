@@ -1,9 +1,9 @@
 <div class="nab">
 	<p class='guide'>[Reading from Numbers 12:5-8]<img class="img-bible" src="../../Images/bible.png" /></p>
 	<p>When both came forward, the Lord said: Now listen to my words:</p>
-	<p>If there are prophets among you, in visions I reveal myself to them, in dreams I speak to them; Not so with my servant Moses! Throughout my house he is worthy of trust: face to face I speak to him, plainly and not in riddles. The likeness of the Lord he beholds.</p>
+	<p>If there are prophets among you, in visions I reveal myself to them, in dreams I speak to them; Not so with my servant Moses! Throughout my house he is worthy of trust: <span class="suc">face to face I speak to him, plainly and not in riddles.</span> The likeness of the Lord he beholds.</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Numbers 12:5-8]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>And when they were come, He said to them: Hear my words: if there be among you a prophet of the Lord, I will appear to him in a vision, or I will speak to him in a dream. But it is not so with my servant Moses who is most faithful in all my house: For I speak to him mouth to mouth: and plainly, and not by riddles and figures doth he see the Lord.</p>
+	<p>And when they were come, He said to them: Hear my words: if there be among you a prophet of the Lord, I will appear to him in a vision, or I will speak to him in a dream. But it is not so with my servant Moses who is most faithful in all my house: <span class="suc">For I speak to him mouth to mouth: and plainly, and not by riddles</span> and figures doth he see the Lord.</p>
 </div>

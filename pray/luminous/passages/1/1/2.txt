@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Genesis 7:17-18]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>The flood continued upon the earth for forty days. As the waters increased, they lifted the ark, so that it rose above the earth. The waters swelled and increased greatly on the earth, but the ark floated on the surface of the waters.</p>
+	<p>The flood continued upon the earth for forty days. As the waters increased, they lifted the ark, so that it rose above the earth. The waters swelled and increased greatly on the earth, but <span class="suc">the ark floated on the surface of the waters.</span></p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Genesis 7:17-18]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>And the flood was forty days upon the earth, and the waters increased, and lifted up the ark on high from the earth. For they overflowed exceedingly: and filled all on the face of the earth: and the ark was carried upon the waters.</p>
+	<p>And the flood was forty days upon the earth, and the waters increased, and lifted up the ark on high from the earth. For they overflowed exceedingly: and filled all on the face of the earth: and <span class="suc">the ark was carried upon the waters.</span></p>
 </div>

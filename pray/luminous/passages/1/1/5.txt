@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Psalm 19:13-15]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-	<p><span class="brf">Who can detect trespasses? Cleanse me from my inadvertent sins. Also from arrogant ones restrain your servant; let them never control me. Then shall I be blameless, innocent of grave sin.</span> Let the words of my mouth be acceptable, the thoughts of my heart before you, Lord, my rock and redeemer.</p>
+	<p><span class="brf">Who can detect trespasses? <span class="suc">Cleanse me from my inadvertent sins.</span> Also from arrogant ones restrain your servant; let them never control me. Then shall I be blameless, innocent of grave sin.</span> Let the words of my mouth be acceptable, the thoughts of my heart before you, Lord, my rock and redeemer.</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Psalm 19:13-15]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
-	<p><span class="brf">Who can understand sins? from my secret ones cleanse me, O Lord: and from those of others spare thy servant. If they shall have no dominion over me, then shall I be without spot: and I shall be cleansed from the greatest sin.</span> And the words of my mouth shall be such as may please: and the meditation of my heart always in thy sight. O Lord, my helper, and my redeemer.</p>
+	<p><span class="brf"><span class="suc">Who can understand sins? from my secret ones cleanse me</span>, O Lord: and from those of others spare thy servant. If they shall have no dominion over me, then shall I be without spot: and I shall be cleansed from the greatest sin.</span> And the words of my mouth shall be such as may please: and the meditation of my heart always in thy sight. O Lord, my helper, and my redeemer.</p>
 </div>

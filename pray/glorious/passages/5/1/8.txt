@@ -1,8 +1,8 @@
 <div class="nab">
 	<p class='guide'>[Reading from Psalms 45:14-16]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>All glorious is the king's daughter as she enters, her raiment threaded with gold; In embroidered apparel she is led to the king. The maids of her train are presented to the king. They are led in with glad and joyous acclaim; they enter the palace of the king.</p>
+	<p><span class="suc">All glorious is the king's daughter as she enters</span>, her raiment threaded with gold; In embroidered apparel she is led to the king. The maids of her train are presented to the king. They are led in with glad and joyous acclaim; they enter the palace of the king.</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from Psalms 45:14-16]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>All the glory of the king's daughter is within in golden borders, clothed round about with varieties. After her shall virgins be brought to the king: her neighbours shall be brought to thee. They shall be brought with gladness and rejoicing: they shall be brought into the temple of the king.</p>
+	<p><span class="suc">All the glory of the king's daughter is within in golden borders</span>, clothed round about with varieties. After her shall virgins be brought to the king: her neighbours shall be brought to thee. They shall be brought with gladness and rejoicing: they shall be brought into the temple of the king.</p>
 </div>
