@@ -1,6 +1,6 @@
 <div class="nab">
 	<p class='guide'>[Reading from the holy Gospel according to St. Luke 16:29-31]<img class="img-bible" src="../../Images/bible.png" /></p>
-	<p>"But Abraham replied, 'They have Moses and the prophets. Let them listen to them.' He said, 'Oh no, father Abraham, but if someone from the dead goes to them, they will repent.' Then Abraham said, '<span class="suc">If they will not listen to Moses and the prophets, neighter will they be persuaded if someone should rise from the dead</span>.'"</p>
+	<p>"But Abraham replied, 'They have Moses and the prophets. Let them listen to them.' He said, 'Oh no, father Abraham, but if someone from the dead goes to them, they will repent.' Then Abraham said, '<span class="suc">If they will not listen to Moses and the prophets, neither will they be persuaded if someone should rise from the dead</span>.'"</p>
 </div>
 <div class="dr">
 	<p class='guide'>[Reading from the holy Gospel according to St. Luke 16:29-31]<img class="img-bible" src="../../Images/bible.png" /></p>
