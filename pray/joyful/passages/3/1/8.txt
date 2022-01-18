@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Isaiah 60:5-6]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>Then you shall see and be radiant, your heart shall throb and overflow. For the riches of the sea shall be poured out before you, the wealth of nations shall come to you. <span class="brf">Caravans of camels shall cover you, dromedaries of Midian and Ephah; <span class="suc">All from Sheba shall come bearing gold and frankincense, and heralding the praises of the Lord.</span></span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Isaiah 60:5-6]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>Then shalt thou see, and abound, and thy heart shall wonder and be enlarged, when the multitude of the sea shall be converted to thee, the strength of the Gentiles shall come to thee. <span class="brf">The multitude of camels shall be gathered unto thee, the dromedaries of Madian and Epha: <span class="suc">all they from Saba shall come, bringing gold and frankincense: and shewing forth praise to the Lord.</span></span></p>
+</div>

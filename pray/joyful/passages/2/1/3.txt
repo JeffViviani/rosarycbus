@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. Mark 2:3-5]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">They came bringing to him a paralytic carried by four men. <span class="suc">Unable to get near Jesus because of the crowd, they opened up the roof above him.</span> After they had broken through, they let down the mat on which the paralytic was lying.</span> When Jesus saw their faith, he said to the paralytic, "Child, your sins are forgiven."</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. Mark 2:3-5]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p><span class="brf">And <span class="suc">they came to him, bringing one sick of the palsy, who was carried by four. And when they could not offer him unto him for the multitude, they uncovered the roof where he was</span>; and opening it, they let down the bed wherein the man sick of the palsy lay.</span> And when Jesus had seen their faith, he saith to the sick of palsy: Son, thy sins are forgiven thee.</p>
+</div>

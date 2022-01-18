@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Isaiah 60:19-20]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>No longer shall the sun be your light by day, Nor shall the brightness of the moon give you light by night; Rather, the Lord will be your light forever, your God will be your glory. <span class="suc">No longer will your sun set, or your moon wane; for the Lord will be your light forever</span>, and the days of your grieving will be over.</p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Isaiah 60:19-20]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>Thou shalt no more have the sun for thy light by day, neither shall the brightness of the moon enlighten thee: but the Lord shall be unto thee for an everlasting light, and thy God for thy glory. <span class="suc">Thy sun shall go down no more, and thy moon shall not decrease: for the Lord shall be unto thee for an everlasting light, and the days of thy mourning shall be ended.</p>
+</div>
