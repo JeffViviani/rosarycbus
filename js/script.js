@@ -121,15 +121,16 @@ function loadReadings() {
 				
 			} else if(medSelect.value == "suc") {
 				
-				let suc = visibleReadings.querySelector(".suc");
+				let sucs = visibleReadings.getElementsByClassName("suc");
+				let suc = sucs[weeksSinceEpoc % sucs.length]
 				if(suc != null) {
 					
 					let newParagraph;
 					let text = suc.innerHTML;
 					
 					let newDiv = document.createElement("div");
-					
-					if(hiddenReadings[i].nextElementSibling.classList.contains("rotation-readings")) {
+					let tmp = hiddenReadings[i].previousElementSibling.nodeName;
+					if(tmp == "CENTER") {
 						newParagraph = document.createElement("center");
 						newParagraph.innerHTML = "<p class='guide'>[Meditation]</p>";
 						newDiv.appendChild(newParagraph);

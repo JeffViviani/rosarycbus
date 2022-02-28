@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 24:36-39]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>"But of that day and hour no one knows, neither the angels of heaven, nor the Son, but the Father alone. For as it was in the days of Noah, so it will be at the coming of the Son of Man. <span class="brf"><span class="suc">In [those] days before the flood, they were eating and drinking, marrying and giving in marriage, up to the day that Noah entered the ark. They did not know until the flood came and carried them all away.</span> So will it be [also] at the coming of the Son of Man.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 24:36-39]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>But of that day and hour no one knoweth, no not the angels of heaven, but the Father alone. And as in the days of Noe, so shall also the coming of the Son of man be. <span class="brf"><span class="suc">For as in the days before the flood, they were eating and drinking, marrying and giving in marriage, even till that day in which Noe entered into the ark, And they knew not till the flood came, and took them all away;</span> so also shall the coming of the Son of man be.</span></p>
+</div>

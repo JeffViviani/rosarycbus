@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 24:24-28]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>False messiahs and false prophets will arise, and they will perform signs and wonders so great as to deceive, if that were possible, even the elect. Behold, I have told it to you beforehand. So if they say to you, 'He is in the desert,' do not go out there; if they say, 'He is in the inner rooms,' do not believe it. <span class="brf"><span class="suc">For just as the lightning comes from the east and is seen as far as the west, so will the coming of the Son of man be.</span> <span class="suc">Wherever the corpse is, there the vultures will gather.</span></span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from the holy Gospel according to St. Matthew 24:24-28]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>For there shall arise false Christs and false prophets, and shall shew great signs and wonders, insomuch as to deceive (if possible) even the elect. Behold I have told it to you, beforehand. If therefore they shall say to you: Behold he is in the desert, go ye not out: Behold <i>he</i> is in the closets, believe it not. <span class="brf"><span class="suc">For as lightning cometh out of the east, and appeareth even into the west: so shall also the coming of the Son of man be.</span> <span class="suc">Wheresoever the body shall be, there shall the eagles also be gathered together.</span></span></p>
+</div>
