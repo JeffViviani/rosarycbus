@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Ecclesiastes 9:13-16]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>On the other hand I saw this wise deed under the sun, which I thought magnificent. Against a small city with a few inhabitants advanced a mighty king, who surrounded it and threw up great siegeworks about it. But <span class="suc">in the city lived a man who, though poor, was wise, and he delivered it through his wisdom.</span> <span class="brf">Yet no one remembered this poor man. Though I had said, "Wisdom is better than force," yet <span class="suc">the wisdom of this poor man is despised and his words go unheeded.</span></span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Ecclesiastes 9:13-16]<img class="img-bible" src="../../Images/bible.png" /><input type="checkbox" class="brfbtn"></input><label>Brief</label></p>
+	<p>This wisdom also I have seen under the sun, and it seemed to me to be very great: A little city, and few men in it: there came against it a great king, and invested it, and built bulwarks round about it, and the siege was perfect. Now there was found in it a man poor and wise, and he delivered the city by his wisdom, and <span class="brf">no man afterward remembered that poor man. And I said that wisdom is better than strength: <span class="suc">how then is the wisdom of the poor man slighted, and his words not heard?</span></span></p>
+</div>

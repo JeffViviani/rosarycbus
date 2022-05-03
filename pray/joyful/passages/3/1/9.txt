@@ -1,0 +1,8 @@
+<div class="nab">
+	<p class='guide'>[Reading from Jeremiah 1:1;4-5]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>The words of Jeremiah, son of Hilkiah, one of the priests from Anathoth, in the land of Benjamin. [...] The word of the Lord came to me: <span class="suc">Before I formed you in the womb I knew you, before you were born I dedicated you, a prophet to the nations I appointed you.</span></p>
+</div>
+<div class="dr">
+	<p class='guide'>[Reading from Jeremiah 1:1;4-5]<img class="img-bible" src="../../Images/bible.png" /></p>
+	<p>The words of Jeremias the son of Helcias, of the priests that were in Anathoth, in the land of Benjamin. [...] And the word of the Lord came to me, saying: <span class="suc">Before I formed thee in the bowels of thy mother, I knew thee: and before thou camest forth out of the womb, I sanctified thee, and made thee a prophet unto the nations.</span></p>
+</div>
