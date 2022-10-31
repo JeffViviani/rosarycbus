@@ -4,7 +4,7 @@
 ?>
 <!DOCTYPE html>
 	<head>
-		<title>Sorrowful Mysteries</title>
+		<title>Joyful Mysteries</title>
 		<link rel='stylesheet' type='text/css' href='../../style/stylesheet.css?v=1.4' />
 		<link rel="preconnect" href="https://fonts.gstatic.com">
 		<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@500&display=swap" rel="stylesheet">
@@ -27,12 +27,12 @@
 		<div class='full-page-box'>
 			<div id="left-margin"></div>
 			<div id="main-content">
-				<a href="../sorrowful/index.html"><div class='bar-1 red-bar'></div></a>
-				<a href="../glorious/index.html"><div class='bar-2 grey-bar bcm-green-bar'></div></a>
-				<a href="../luminous/index.html"><div class='bar-3 grey-bar bcm-orange-bar'></div></a>
-				<a href="../joyful/index.html"><div class='bar-4 grey-bar bcm-blue-bar'></div></a>
-				<center><h2 class='big-pretty-text-sorrowful'>The Sorrowful Mysteries</h2></center>
-				<center><p class="tiny-text">You are viewing the scriptural rosary. To view the meditative rosary instead, <a href="../variants/meditative/sorrowful/index.html">click here</a>.</center>
+				<a href="../sorrowful/index.php"><div class='bar-1 grey-bar bcm-red-bar'></div></a>
+				<a href="../glorious/index.php"><div class='bar-2 grey-bar bcm-green-bar'></div></a>
+				<a href="../luminous/index.php"><div class='bar-3 grey-bar bcm-orange-bar'></div></a>
+				<a href="../joyful/index.php"><div class='bar-4 blue-bar'></div></a>
+				<center><h2 class='big-pretty-text'>The Joyful Mysteries</h2></center>
+				<center><p class="tiny-text">You are viewing the scriptural rosary. To view the meditative rosary instead, <a href="../variants/meditative/joyful/index.php">click here</a>.</center>
 				
 				<center><p style="margin-bottom:0">Occasion:</p></center>
 				<center>
@@ -45,10 +45,10 @@
 				<center><p style="margin-bottom:0;margin-top:0;">Meditation Style:</p></center>
 				<center>
 					<select name="medstyle" id="medstyle-select">
-						<option value="suc">Succinct</option>
+					<option value="suc">Succinct</option>
 						<option value="dis">Distinct</option>
-						<option value="intf">Integrated Full</option>
 						<option value="intb">Integrated Brief</option>
+						<option value="intf">Integrated Full</option>
 					</select>
 				</center>
 				
@@ -91,10 +91,10 @@
 					<p>Glory be to the Father, and to the Son, and to the Holy Spirit. <span class="red">As it was in the beginning, is now and ever shall be. World without end. Amen.</span></p>
 				</div>
 
-				<div class="section-btn">First Sorrowful Mystery</div>
+				<div class="section-btn">First Joyful Mystery</div>
 				<div class="expandable-box">
-					<center><b><p class='guide'>[First Sorrowful Mystery]</p></b>
-					<p>The First Sorrowful Mystery: The Agony in the Garden.</p></center>
+					<center><b><p class='guide'>[First Joyful Mystery]</p></b>
+					<p>The First Joyful Mystery: The Annunciation.</p></center>
 					<div class="rotation-readings">
 						<?php echo getScripture('passages/1/1/', $weeksSinceEpoc); ?>
 					</div>
@@ -102,7 +102,7 @@
 						<?php echo getScripture('passages/1/2/', $weeksSinceEpoc); ?>
 					</div>
 					<center><p class='guide'>[Fruit of the Mystery]</p>
-					<p>Fruit of the Mystery: Sorrow for Sin</p></center>
+					<p>Fruit of the Mystery: Humility</p></center>
 					<p class='guide'>[Our Father]</p>
 					<p>Our Father, who art in Heaven, hallowed be Thy name. Thy kingdom come, Thy will be done, on Earth as it is in Heaven. <span class="red">Give us this day our daily bread, and forgive us our trespasses as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. Amen.</span></p>
 					<p class='guide'>[10X Hail Mary's]</p>
@@ -122,10 +122,10 @@
 					<p>O My Jesus, <span class="red">forgive us our sins. Save us from the fires of Hell. Lead all souls to Heaven, especially those in most need of Thy mercy.</span></p>
 				</div>
 
-				<div class="section-btn">Second Sorrowful Mystery</div>
+				<div class="section-btn">Second Joyful Mystery</div>
 				<div class="expandable-box">
-					<center><b><p class='guide'>[Second Sorrowful Mystery]</p></b>
-					<p>The Second Sorrowful Mystery: The Scourging</p></center>
+					<center><b><p class='guide'>[Second Joyful Mystery]</p></b>
+					<p>The Second Joyful Mystery: The Visitation.</p></center>
 					<div class="rotation-readings">
 						<?php echo getScripture('passages/2/1/', $weeksSinceEpoc); ?>
 					</div>
@@ -133,11 +133,11 @@
 						<?php echo getScripture('passages/2/2/', $weeksSinceEpoc); ?>
 					</div>
 					<center><p class='guide'>[Fruit of the Mystery]</p>
-					<p>Fruit of the Mystery: Purity</p></center>
+					<p>Fruit of the Mystery: Love of Neighbor</p></center>
 					<p class='guide'>[Our Father]</p>
-					<p>Our Father, Who art in Heaven, hallowed be Thy name. Thy kingdom come, Thy will be done, on Earth as it is in Heaven. <span class="red">Give us this day our daily bread, and forgive us our trespasses as we forgive those who trespass against us. And leas us not into temptation, but deliver us from evil. Amen.</span></p>
+					<p>Our Father, Who art in Heaven, hallowed be Thy name. Thy kingdom come, Thy will be done, on Earth as it is in Heaven. <span class="red">Give us this day our daily bread, and forgive us our trespasses as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. Amen.</span></p>
 					<p class='guide'>[10X Hail Mary's]</p>
-					<p>Hail Mary, full of grace, the Lord is with Thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. <span class="red">Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.</span></p>
+					<p>Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. <span class="red">Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.</span></p>
 					<p>Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. <span class="red">Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.</span></p>
 					<p>Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. <span class="red">Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.</span></p>
 					<p>Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. <span class="red">Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.</span></p>
@@ -153,10 +153,10 @@
 					<p>O My Jesus, <span class="red">forgive us our sins, save us from the fires of Hell, lead all souls to Heaven, especially those in most need of Thy mercy.</span></p>
 				</div>
 
-				<div class="section-btn">Third Sorrowful Mystery</div>
+				<div class="section-btn">Third Joyful Mystery</div>
 				<div class="expandable-box">
-					<center><b><p class='guide'>[Third Sorrowful Mystery]</p></b>
-					<p>The Third Sorrowful Mystery: The Crowning with Thorns</p></center>
+					<center><b><p class='guide'>[Third Joyful Mystery: The Nativity]</p></b>
+					<p>The Third Joyful Mystery: The Nativity of Our Lord Jesus Christ</p></center>
 					<div class="rotation-readings">
 						<?php echo getScripture('passages/3/1/', $weeksSinceEpoc); ?>
 					</div>
@@ -164,7 +164,7 @@
 						<?php echo getScripture('passages/3/2/', $weeksSinceEpoc); ?>
 					</div>
 					<center><p class='guide'>[Fruit of the Mystery]</p>
-					<p>Fruit of the Mystery: Courage</p></center>
+					<p>Fruit of the Mystery: Poverty</p></center>
 					<p class='guide'>[Our Father]</p>
 					<p>Our Father, Who art in Heaven. Hallowed be Thy name. Thy kingdom come, Thy will be done, on Earth as it is in Heaven. <span class="red">Give us this day our daily bread, and forgive us our trespasses as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil. Amen.</span></p>
 					<p class='guide'>[10X Hail Mary's]</p>
@@ -184,10 +184,10 @@
 					<p>O My Jesus, <span class="red">forgive us our sins. Save us from the fires of Hell. Lead all souls to Heaven, especially those in most need of Thy mercy.</span></p>
 				</div>
 
-				<div class="section-btn">Fourth Sorrowful Mystery</div>
+				<div class="section-btn">Fourth Joyful Mystery</div>
 				<div class="expandable-box">
-					<center><b><p class='guide'>[Fourth Sorrowful Mystery]</p></b>
-					<p>The Fourth Sorrowful Mystery: The Carrying of the Cross</p></center>
+					<center><b><p class='guide'>[Fourth Joyful Mystery: The Presentation]</b></p>
+					<p>The Fourth Joyful Mystery: The Presentation of Our Lord Jesus Christ in the Temple</p></center>
 					<div class="rotation-readings">
 						<?php echo getScripture('passages/4/1/', $weeksSinceEpoc); ?>
 					</div>
@@ -195,7 +195,7 @@
 						<?php echo getScripture('passages/4/2/', $weeksSinceEpoc); ?>
 					</div>
 					<center><p class='guide'>[Fruit of the Mystery]</p>
-					<p>Fruit of the Mystery: Patience</p></center>
+					<p>Fruit of the Mystery: Obedience</p></center>
 					<p class='guide'>[Our Father]</p>
 					<p>Our Father, Who art in Heaven, hallowed be Thy name. Thy kingdom come, Thy will be done, on Earth as it is in Heaven. <span class="red">Give us this day our daily bread, and forgive us our trespasses as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. Amen.</span></p>
 					<p class='guide'>[10X Hail Mary's]</p>
@@ -215,18 +215,18 @@
 					<p>O My Jesus, <span class="red">forgive us our sins. Save us from the fires of Hell. Lead all souls to Heaven, especially those in most need of thy mercy.</span></p>
 				</div>
 
-				<div class="section-btn">Fifth Sorrowful Mystery</div>
+				<div class="section-btn">Fifth Joyful Mystery</div>
 				<div class="expandable-box">
-					<center><b><p class='guide'>[Fifth Sorrowful Mystery]</p></b>
-					<p>The Fifth Sorrowful Mystery: The Crucifixion of Our Lord Jesus Christ</p></center>
+					<center><b><p class='guide'>[Fifth Joyful Mystery: The Finding]</p></b>
+					<p>The Fifth Joyful Mystery: The Finding of the Child Jesus in the Temple</p></center>
 					<div class="rotation-readings">
 						<?php echo getScripture('passages/5/1/', $weeksSinceEpoc); ?>
 					</div>
-					<div class='rotation-readings'>
+					<div class="rotation-readings">
 						<?php echo getScripture('passages/5/2/', $weeksSinceEpoc); ?>
 					</div>
 					<center><p class='guide'>[Fruit of the Mystery]</p>
-					<p>Fruit of the Mystery: Perseverence</p></center>
+					<p>Fruit of the Mystery: Joy in Finding Jesus</p></center>
 					<p class='guide'>[Our Father]</p>
 					<p>Our Father, Who art in Heaven, hallowed be Thy name. Thy kingdom come, Thy will be done. On Earth as it is in Heaven. <span class="red">Give us this day our daily bread, and forgive us our trespasses as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. Amen.</span></p>
 					<p class='guide'>[10X Hail Mary's]</p>
@@ -274,7 +274,7 @@
 				</div>
 			</div>
 			<div id="right-margin"></div>
-			<p id="wse"><?php echo $weeksSinceEpoc ?></p>
 		</div>
+		<p id="wse"><?php echo $weeksSinceEpoc ?></p>
 	</body>
 </html>

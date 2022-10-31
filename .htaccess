@@ -1,2 +1,2 @@
-AddHandler application/ etc.
-AddType text/html .html
+AddType text/html .html]
+DirectoryIndex index.html

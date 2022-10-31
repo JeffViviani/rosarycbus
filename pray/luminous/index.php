@@ -27,10 +27,10 @@
 		<div class='full-page-box'>
 			<div id="left-margin"></div>
 			<div id="main-content">
-				<a href="../sorrowful/index.html"><div class='bar-1 grey-bar bcm-red-bar'></div></a>
-				<a href="../glorious/index.html"><div class='bar-2 grey-bar bcm-green-bar'></div></a>
-				<a href="../luminous/index.html"><div class='bar-3 orange-bar'></div></a>
-				<a href="../joyful/index.html"><div class='bar-4 grey-bar bcm-blue-bar'></div></a>
+				<a href="../sorrowful/index.php"><div class='bar-1 grey-bar bcm-red-bar'></div></a>
+				<a href="../glorious/index.php"><div class='bar-2 grey-bar bcm-green-bar'></div></a>
+				<a href="../luminous/index.php"><div class='bar-3 orange-bar'></div></a>
+				<a href="../joyful/index.php"><div class='bar-4 grey-bar bcm-blue-bar'></div></a>
 				<center><h2 class='big-pretty-text'>The Luminous Mysteries</h2></center>
 				
 				<center><p style="margin-bottom:0">Occasion:</p></center>
